@@ -1,0 +1,48 @@
+name: Daily AI & Tech Radar
+
+on:
+  schedule:
+    # Her gün UTC 06:00'da otomatik çalışır (TSİ 09:00)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # GitHub arayüzünden manuel tetikleme desteği
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    name: Fetch Trends and Update Radar
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Depoyu Klonla
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Python 3.11 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Bağımlılıkları Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚀 Veri Hattını Çalıştır
+        run: |
+          python src/fetch_trends.py
+
+      - name: 💾 Değişiklikleri Kaydet ve Push Et
+        run: |
+          git config --global user.name "themuhammedguler"
+          git config --global user.email "themuhammedguler@gmail.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "Herhangi bir değişiklik bulunamadı, commit adımı atlanıyor."
+          else
+            git commit -m "📊 Daily AI & Tech Radar Update: $(date +'%Y-%m-%d')"
+            git push
+          fi
