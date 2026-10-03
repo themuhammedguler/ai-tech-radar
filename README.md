@@ -21,11 +21,11 @@
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 766 | 💬 371 | [Tartışma](https://news.ycombinator.com/item?id=49927754) |
-| [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | ⭐ 631 | 💬 152 | [Tartışma](https://news.ycombinator.com/item?id=49925184) |
+| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 766 | 💬 372 | [Tartışma](https://news.ycombinator.com/item?id=49927754) |
+| [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | ⭐ 632 | 💬 152 | [Tartışma](https://news.ycombinator.com/item?id=49925184) |
 | [Apple Pass Designer](https://developer.apple.com/pass-designer/) | ⭐ 536 | 💬 320 | [Tartışma](https://news.ycombinator.com/item?id=49937276) |
-| [FLUX 3 Image](https://bfl.ai/models/flux-3-image) | ⭐ 420 | 💬 92 | [Tartışma](https://news.ycombinator.com/item?id=49925974) |
-| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | ⭐ 411 | 💬 121 | [Tartışma](https://news.ycombinator.com/item?id=49940394) |
+| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | ⭐ 412 | 💬 121 | [Tartışma](https://news.ycombinator.com/item?id=49940394) |
+| [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) | ⭐ 378 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=49932147) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**
