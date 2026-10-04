@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-03`
+### ⚡ Son Güncelleme: `2026-10-04`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-03.md`)](reports/2026-10-03.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-04.md`)](reports/2026-10-04.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | ⭐ 766 | 💬 372 | [Tartışma](https://news.ycombinator.com/item?id=49927754) |
-| [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | ⭐ 632 | 💬 152 | [Tartışma](https://news.ycombinator.com/item?id=49925184) |
-| [Apple Pass Designer](https://developer.apple.com/pass-designer/) | ⭐ 536 | 💬 320 | [Tartışma](https://news.ycombinator.com/item?id=49937276) |
-| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | ⭐ 412 | 💬 121 | [Tartışma](https://news.ycombinator.com/item?id=49940394) |
-| [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) | ⭐ 378 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=49932147) |
+| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | ⭐ 509 | 💬 103 | [Tartışma](https://news.ycombinator.com/item?id=49949438) |
+| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | ⭐ 463 | 💬 228 | [Tartışma](https://news.ycombinator.com/item?id=49949235) |
+| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | ⭐ 318 | 💬 50 | [Tartışma](https://news.ycombinator.com/item?id=49946895) |
+| [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) | ⭐ 302 | 💬 68 | [Tartışma](https://news.ycombinator.com/item?id=49946393) |
+| [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | ⭐ 273 | 💬 192 | [Tartışma](https://news.ycombinator.com/item?id=49910462) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**
@@ -38,6 +38,7 @@
   *Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-04 Raporu](reports/2026-10-04.md)
 - [📅 2026-10-03 Raporu](reports/2026-10-03.md)
 <!-- LATEST_REPORT_END -->
 
