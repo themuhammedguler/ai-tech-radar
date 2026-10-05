@@ -13,31 +13,32 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-04`
+### ⚡ Son Güncelleme: `2026-10-05`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-04.md`)](reports/2026-10-04.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-05.md`)](reports/2026-10-05.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | ⭐ 509 | 💬 103 | [Tartışma](https://news.ycombinator.com/item?id=49949438) |
-| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | ⭐ 463 | 💬 228 | [Tartışma](https://news.ycombinator.com/item?id=49949235) |
-| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | ⭐ 318 | 💬 50 | [Tartışma](https://news.ycombinator.com/item?id=49946895) |
-| [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) | ⭐ 302 | 💬 68 | [Tartışma](https://news.ycombinator.com/item?id=49946393) |
-| [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | ⭐ 273 | 💬 192 | [Tartışma](https://news.ycombinator.com/item?id=49910462) |
+| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | ⭐ 902 | 💬 196 | [Tartışma](https://news.ycombinator.com/item?id=49949438) |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | ⭐ 845 | 💬 377 | [Tartışma](https://news.ycombinator.com/item?id=49953495) |
+| [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) | ⭐ 654 | 💬 444 | [Tartışma](https://news.ycombinator.com/item?id=49957116) |
+| [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) | ⭐ 448 | 💬 580 | [Tartışma](https://news.ycombinator.com/item?id=49957068) |
+| [What is going on with ceiling fans](https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans) | ⭐ 353 | 💬 306 | [Tartışma](https://news.ycombinator.com/item?id=49917536) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**
-  *3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained...*
+- 📄 **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)**
+  *This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...*
 
-- 📄 **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)**
-  *LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...*
+- 📄 **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](http://arxiv.org/abs/2610.03715v1)**
+  *We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...*
 
-- 📄 **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)**
-  *Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...*
+- 📄 **[What Should World Models Forget? Stratified Retention for Continual Adaptation](http://arxiv.org/abs/2610.03713v1)**
+  *Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-05 Raporu](reports/2026-10-05.md)
 - [📅 2026-10-04 Raporu](reports/2026-10-04.md)
 - [📅 2026-10-03 Raporu](reports/2026-10-03.md)
 <!-- LATEST_REPORT_END -->
