@@ -13,31 +13,32 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-05`
+### ⚡ Son Güncelleme: `2026-10-06`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-05.md`)](reports/2026-10-05.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-06.md`)](reports/2026-10-06.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | ⭐ 902 | 💬 196 | [Tartışma](https://news.ycombinator.com/item?id=49949438) |
-| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | ⭐ 845 | 💬 377 | [Tartışma](https://news.ycombinator.com/item?id=49953495) |
-| [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) | ⭐ 654 | 💬 444 | [Tartışma](https://news.ycombinator.com/item?id=49957116) |
-| [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) | ⭐ 448 | 💬 580 | [Tartışma](https://news.ycombinator.com/item?id=49957068) |
-| [What is going on with ceiling fans](https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans) | ⭐ 353 | 💬 306 | [Tartışma](https://news.ycombinator.com/item?id=49917536) |
+| [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) | ⭐ 565 | 💬 260 | [Tartışma](https://news.ycombinator.com/item?id=49963171) |
+| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | ⭐ 480 | 💬 155 | [Tartışma](https://news.ycombinator.com/item?id=49969183) |
+| [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | ⭐ 393 | 💬 265 | [Tartışma](https://news.ycombinator.com/item?id=49970667) |
+| [Apple and a hacker's future](https://stratechery.com/2026/apple-and-a-hackers-future/) | ⭐ 275 | 💬 231 | [Tartışma](https://news.ycombinator.com/item?id=49962857) |
+| [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) | ⭐ 258 | 💬 164 | [Tartışma](https://news.ycombinator.com/item?id=49971921) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)**
-  *This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...*
+- 📄 **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**
+  *Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different...*
 
-- 📄 **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](http://arxiv.org/abs/2610.03715v1)**
-  *We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...*
+- 📄 **[Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1)**
+  *In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...*
 
-- 📄 **[What Should World Models Forget? Stratified Retention for Continual Adaptation](http://arxiv.org/abs/2610.03713v1)**
-  *Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...*
+- 📄 **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1)**
+  *Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitorin...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 - [📅 2026-10-05 Raporu](reports/2026-10-05.md)
 - [📅 2026-10-04 Raporu](reports/2026-10-04.md)
 - [📅 2026-10-03 Raporu](reports/2026-10-03.md)
