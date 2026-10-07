@@ -13,31 +13,32 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-06`
+### ⚡ Son Güncelleme: `2026-10-07`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-06.md`)](reports/2026-10-06.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-07.md`)](reports/2026-10-07.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) | ⭐ 565 | 💬 260 | [Tartışma](https://news.ycombinator.com/item?id=49963171) |
-| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | ⭐ 480 | 💬 155 | [Tartışma](https://news.ycombinator.com/item?id=49969183) |
-| [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | ⭐ 393 | 💬 265 | [Tartışma](https://news.ycombinator.com/item?id=49970667) |
-| [Apple and a hacker's future](https://stratechery.com/2026/apple-and-a-hackers-future/) | ⭐ 275 | 💬 231 | [Tartışma](https://news.ycombinator.com/item?id=49962857) |
-| [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) | ⭐ 258 | 💬 164 | [Tartışma](https://news.ycombinator.com/item?id=49971921) |
+| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | ⭐ 1884 | 💬 1134 | [Tartışma](https://news.ycombinator.com/item?id=49977979) |
+| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 1009 | 💬 986 | [Tartışma](https://news.ycombinator.com/item?id=49984923) |
+| [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) | ⭐ 357 | 💬 35 | [Tartışma](https://news.ycombinator.com/item?id=49980487) |
+| [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | ⭐ 336 | 💬 178 | [Tartışma](https://news.ycombinator.com/item?id=49984025) |
+| [Tell HN: GitHub refuses to remove cracked copies of my software after a month](https://news.ycombinator.com/item?id=49982498) | ⭐ 334 | 💬 179 | [Tartışma](https://news.ycombinator.com/item?id=49982498) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**
-  *Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different...*
+- 📄 **[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)**
+  *Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the...*
 
-- 📄 **[Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1)**
-  *In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...*
+- 📄 **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](http://arxiv.org/abs/2610.08785v1)**
+  *Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic mea...*
 
-- 📄 **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1)**
-  *Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitorin...*
+- 📄 **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](http://arxiv.org/abs/2610.08782v1)**
+  *Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 - [📅 2026-10-05 Raporu](reports/2026-10-05.md)
 - [📅 2026-10-04 Raporu](reports/2026-10-04.md)
