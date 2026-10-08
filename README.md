@@ -13,31 +13,32 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-07`
+### ⚡ Son Güncelleme: `2026-10-08`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-07.md`)](reports/2026-10-07.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-08.md`)](reports/2026-10-08.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | ⭐ 1884 | 💬 1134 | [Tartışma](https://news.ycombinator.com/item?id=49977979) |
-| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 1009 | 💬 986 | [Tartışma](https://news.ycombinator.com/item?id=49984923) |
-| [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) | ⭐ 357 | 💬 35 | [Tartışma](https://news.ycombinator.com/item?id=49980487) |
-| [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | ⭐ 336 | 💬 178 | [Tartışma](https://news.ycombinator.com/item?id=49984025) |
-| [Tell HN: GitHub refuses to remove cracked copies of my software after a month](https://news.ycombinator.com/item?id=49982498) | ⭐ 334 | 💬 179 | [Tartışma](https://news.ycombinator.com/item?id=49982498) |
+| [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | ⭐ 1737 | 💬 182 | [Tartışma](https://news.ycombinator.com/item?id=49998895) |
+| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 1288 | 💬 1461 | [Tartışma](https://news.ycombinator.com/item?id=49984923) |
+| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | ⭐ 935 | 💬 441 | [Tartışma](https://news.ycombinator.com/item?id=49996437) |
+| [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | ⭐ 675 | 💬 397 | [Tartışma](https://news.ycombinator.com/item?id=49996425) |
+| [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) | ⭐ 553 | 💬 143 | [Tartışma](https://news.ycombinator.com/item?id=49994443) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)**
-  *Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the...*
+- 📄 **[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)**
+  *As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...*
 
-- 📄 **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](http://arxiv.org/abs/2610.08785v1)**
-  *Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic mea...*
+- 📄 **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)**
+  *Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...*
 
-- 📄 **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](http://arxiv.org/abs/2610.08782v1)**
-  *Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un...*
+- 📄 **[Long-WAM: Scaling the Context of World-Action Models](http://arxiv.org/abs/2610.10528v1)**
+  *Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 - [📅 2026-10-05 Raporu](reports/2026-10-05.md)
