@@ -13,31 +13,32 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-08`
+### ⚡ Son Güncelleme: `2026-10-09`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-08.md`)](reports/2026-10-08.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-09.md`)](reports/2026-10-09.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | ⭐ 1737 | 💬 182 | [Tartışma](https://news.ycombinator.com/item?id=49998895) |
-| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | ⭐ 1288 | 💬 1461 | [Tartışma](https://news.ycombinator.com/item?id=49984923) |
-| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | ⭐ 935 | 💬 441 | [Tartışma](https://news.ycombinator.com/item?id=49996437) |
-| [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | ⭐ 675 | 💬 397 | [Tartışma](https://news.ycombinator.com/item?id=49996425) |
-| [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) | ⭐ 553 | 💬 143 | [Tartışma](https://news.ycombinator.com/item?id=49994443) |
+| [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | ⭐ 839 | 💬 751 | [Tartışma](https://news.ycombinator.com/item?id=50000488) |
+| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | ⭐ 807 | 💬 162 | [Tartışma](https://news.ycombinator.com/item?id=50008427) |
+| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | ⭐ 757 | 💬 469 | [Tartışma](https://news.ycombinator.com/item?id=49995495) |
+| [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | ⭐ 709 | 💬 137 | [Tartışma](https://news.ycombinator.com/item?id=49986882) |
+| [Yes, and](https://htmx.org/essays/yes-and/) | ⭐ 512 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50003796) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)**
-  *As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...*
+- 📄 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**
+  *Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either...*
 
-- 📄 **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)**
-  *Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...*
+- 📄 **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)**
+  *METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...*
 
-- 📄 **[Long-WAM: Scaling the Context of World-Action Models](http://arxiv.org/abs/2610.10528v1)**
-  *Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...*
+- 📄 **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)**
+  *General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
