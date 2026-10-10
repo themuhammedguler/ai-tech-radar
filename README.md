@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-09`
+### ⚡ Son Güncelleme: `2026-10-10`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-09.md`)](reports/2026-10-09.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-10.md`)](reports/2026-10-10.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | ⭐ 839 | 💬 751 | [Tartışma](https://news.ycombinator.com/item?id=50000488) |
-| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | ⭐ 807 | 💬 162 | [Tartışma](https://news.ycombinator.com/item?id=50008427) |
-| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | ⭐ 757 | 💬 469 | [Tartışma](https://news.ycombinator.com/item?id=49995495) |
-| [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | ⭐ 709 | 💬 137 | [Tartışma](https://news.ycombinator.com/item?id=49986882) |
-| [Yes, and](https://htmx.org/essays/yes-and/) | ⭐ 512 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50003796) |
+| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 1256 | 💬 635 | [Tartışma](https://news.ycombinator.com/item?id=50019911) |
+| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 1043 | 💬 200 | [Tartışma](https://news.ycombinator.com/item?id=50022292) |
+| [Sorry, I'm in a meeting](https://iminafleeting.com/) | ⭐ 922 | 💬 260 | [Tartışma](https://news.ycombinator.com/item?id=50018088) |
+| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | ⭐ 665 | 💬 299 | [Tartışma](https://news.ycombinator.com/item?id=50020014) |
+| [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) | ⭐ 591 | 💬 320 | [Tartışma](https://news.ycombinator.com/item?id=50026555) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**
@@ -38,13 +38,13 @@
   *General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-10 Raporu](reports/2026-10-10.md)
 - [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 - [📅 2026-10-05 Raporu](reports/2026-10-05.md)
 - [📅 2026-10-04 Raporu](reports/2026-10-04.md)
-- [📅 2026-10-03 Raporu](reports/2026-10-03.md)
 <!-- LATEST_REPORT_END -->
 
 ---
