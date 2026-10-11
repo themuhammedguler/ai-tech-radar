@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-10`
+### ⚡ Son Güncelleme: `2026-10-11`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-10.md`)](reports/2026-10-10.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-11.md`)](reports/2026-10-11.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | ⭐ 1256 | 💬 635 | [Tartışma](https://news.ycombinator.com/item?id=50019911) |
-| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | ⭐ 1043 | 💬 200 | [Tartışma](https://news.ycombinator.com/item?id=50022292) |
-| [Sorry, I'm in a meeting](https://iminafleeting.com/) | ⭐ 922 | 💬 260 | [Tartışma](https://news.ycombinator.com/item?id=50018088) |
-| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | ⭐ 665 | 💬 299 | [Tartışma](https://news.ycombinator.com/item?id=50020014) |
-| [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) | ⭐ 591 | 💬 320 | [Tartışma](https://news.ycombinator.com/item?id=50026555) |
+| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | ⭐ 504 | 💬 104 | [Tartışma](https://news.ycombinator.com/item?id=49991852) |
+| [The Lightbulb Computer](https://lightbulbcomputer.com/) | ⭐ 456 | 💬 68 | [Tartışma](https://news.ycombinator.com/item?id=50029487) |
+| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | ⭐ 377 | 💬 129 | [Tartışma](https://news.ycombinator.com/item?id=50036864) |
+| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | ⭐ 340 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=50037949) |
+| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | ⭐ 300 | 💬 137 | [Tartışma](https://news.ycombinator.com/item?id=50031614) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**
@@ -38,13 +38,13 @@
   *General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-11 Raporu](reports/2026-10-11.md)
 - [📅 2026-10-10 Raporu](reports/2026-10-10.md)
 - [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 - [📅 2026-10-05 Raporu](reports/2026-10-05.md)
-- [📅 2026-10-04 Raporu](reports/2026-10-04.md)
 <!-- LATEST_REPORT_END -->
 
 ---
