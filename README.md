@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-11`
+### ⚡ Son Güncelleme: `2026-10-12`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-11.md`)](reports/2026-10-11.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-12.md`)](reports/2026-10-12.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | ⭐ 504 | 💬 104 | [Tartışma](https://news.ycombinator.com/item?id=49991852) |
-| [The Lightbulb Computer](https://lightbulbcomputer.com/) | ⭐ 456 | 💬 68 | [Tartışma](https://news.ycombinator.com/item?id=50029487) |
-| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | ⭐ 377 | 💬 129 | [Tartışma](https://news.ycombinator.com/item?id=50036864) |
-| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | ⭐ 340 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=50037949) |
-| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | ⭐ 300 | 💬 137 | [Tartışma](https://news.ycombinator.com/item?id=50031614) |
+| [Passkeys are a trap](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) | ⭐ 806 | 💬 434 | [Tartışma](https://news.ycombinator.com/item?id=50048312) |
+| [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | ⭐ 585 | 💬 222 | [Tartışma](https://news.ycombinator.com/item?id=50045984) |
+| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | ⭐ 552 | 💬 790 | [Tartışma](https://news.ycombinator.com/item?id=50047422) |
+| [NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel) | ⭐ 532 | 💬 266 | [Tartışma](https://news.ycombinator.com/item?id=50045946) |
+| [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | ⭐ 520 | 💬 253 | [Tartışma](https://news.ycombinator.com/item?id=50048642) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**
-  *Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either...*
+- 📄 **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**
+  *Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...*
 
-- 📄 **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)**
-  *METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...*
+- 📄 **[Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)**
+  *Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...*
 
-- 📄 **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)**
-  *General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...*
+- 📄 **[Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)**
+  *The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-12 Raporu](reports/2026-10-12.md)
 - [📅 2026-10-11 Raporu](reports/2026-10-11.md)
 - [📅 2026-10-10 Raporu](reports/2026-10-10.md)
 - [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 - [📅 2026-10-06 Raporu](reports/2026-10-06.md)
-- [📅 2026-10-05 Raporu](reports/2026-10-05.md)
 <!-- LATEST_REPORT_END -->
 
 ---
