@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-12`
+### ⚡ Son Güncelleme: `2026-10-13`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-12.md`)](reports/2026-10-12.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-13.md`)](reports/2026-10-13.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Passkeys are a trap](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) | ⭐ 806 | 💬 434 | [Tartışma](https://news.ycombinator.com/item?id=50048312) |
-| [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | ⭐ 585 | 💬 222 | [Tartışma](https://news.ycombinator.com/item?id=50045984) |
-| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | ⭐ 552 | 💬 790 | [Tartışma](https://news.ycombinator.com/item?id=50047422) |
-| [NYC's "Click to Cancel" rule is now in effect](https://www.nyc.gov/main/click-to-cancel) | ⭐ 532 | 💬 266 | [Tartışma](https://news.ycombinator.com/item?id=50045946) |
-| [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | ⭐ 520 | 💬 253 | [Tartışma](https://news.ycombinator.com/item?id=50048642) |
+| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | ⭐ 780 | 💬 898 | [Tartışma](https://news.ycombinator.com/item?id=50055304) |
+| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | ⭐ 626 | 💬 274 | [Tartışma](https://news.ycombinator.com/item?id=50058528) |
+| [GLM-Legal](https://z.ai/blog/glm-legal) | ⭐ 610 | 💬 338 | [Tartışma](https://news.ycombinator.com/item?id=50058507) |
+| [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) | ⭐ 479 | 💬 387 | [Tartışma](https://news.ycombinator.com/item?id=50063427) |
+| [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr) | ⭐ 380 | 💬 103 | [Tartışma](https://news.ycombinator.com/item?id=50055593) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**
@@ -38,13 +38,13 @@
   *The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-13 Raporu](reports/2026-10-13.md)
 - [📅 2026-10-12 Raporu](reports/2026-10-12.md)
 - [📅 2026-10-11 Raporu](reports/2026-10-11.md)
 - [📅 2026-10-10 Raporu](reports/2026-10-10.md)
 - [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
 - [📅 2026-10-07 Raporu](reports/2026-10-07.md)
-- [📅 2026-10-06 Raporu](reports/2026-10-06.md)
 <!-- LATEST_REPORT_END -->
 
 ---
