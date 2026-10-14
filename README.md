@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-13`
+### ⚡ Son Güncelleme: `2026-10-14`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-13.md`)](reports/2026-10-13.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-14.md`)](reports/2026-10-14.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | ⭐ 780 | 💬 898 | [Tartışma](https://news.ycombinator.com/item?id=50055304) |
-| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | ⭐ 626 | 💬 274 | [Tartışma](https://news.ycombinator.com/item?id=50058528) |
-| [GLM-Legal](https://z.ai/blog/glm-legal) | ⭐ 610 | 💬 338 | [Tartışma](https://news.ycombinator.com/item?id=50058507) |
-| [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/) | ⭐ 479 | 💬 387 | [Tartışma](https://news.ycombinator.com/item?id=50063427) |
-| [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr) | ⭐ 380 | 💬 103 | [Tartışma](https://news.ycombinator.com/item?id=50055593) |
+| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | ⭐ 1331 | 💬 925 | [Tartışma](https://news.ycombinator.com/item?id=50073879) |
+| [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | ⭐ 788 | 💬 816 | [Tartışma](https://news.ycombinator.com/item?id=50073633) |
+| [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | ⭐ 720 | 💬 452 | [Tartışma](https://news.ycombinator.com/item?id=50054092) |
+| [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | ⭐ 450 | 💬 116 | [Tartışma](https://news.ycombinator.com/item?id=50077020) |
+| [The United Kingdom generates less electricity per person than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak) | ⭐ 329 | 💬 534 | [Tartışma](https://news.ycombinator.com/item?id=50072994) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**
-  *Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...*
+- 📄 **[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)**
+  *Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...*
 
-- 📄 **[Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)**
-  *Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...*
+- 📄 **[Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion](http://arxiv.org/abs/2610.18871v1)**
+  *Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension...*
 
-- 📄 **[Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)**
-  *The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...*
+- 📄 **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](http://arxiv.org/abs/2610.18869v1)**
+  *How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-14 Raporu](reports/2026-10-14.md)
 - [📅 2026-10-13 Raporu](reports/2026-10-13.md)
 - [📅 2026-10-12 Raporu](reports/2026-10-12.md)
 - [📅 2026-10-11 Raporu](reports/2026-10-11.md)
 - [📅 2026-10-10 Raporu](reports/2026-10-10.md)
 - [📅 2026-10-09 Raporu](reports/2026-10-09.md)
 - [📅 2026-10-08 Raporu](reports/2026-10-08.md)
-- [📅 2026-10-07 Raporu](reports/2026-10-07.md)
 <!-- LATEST_REPORT_END -->
 
 ---
