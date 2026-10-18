@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-17`
+### ⚡ Son Güncelleme: `2026-10-18`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-17.md`)](reports/2026-10-17.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-18.md`)](reports/2026-10-18.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Tesla Roadster](https://www.tesla.com/roadster) | ⭐ 1431 | 💬 2508 | [Tartışma](https://news.ycombinator.com/item?id=50112657) |
-| [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | ⭐ 872 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50122800) |
-| [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/) | ⭐ 502 | 💬 424 | [Tartışma](https://news.ycombinator.com/item?id=50121179) |
-| [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/) | ⭐ 349 | 💬 329 | [Tartışma](https://news.ycombinator.com/item?id=50122951) |
-| [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference) | ⭐ 320 | 💬 161 | [Tartışma](https://news.ycombinator.com/item?id=50118320) |
+| [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 861 | 💬 656 | [Tartışma](https://news.ycombinator.com/item?id=50129045) |
+| [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | ⭐ 612 | 💬 380 | [Tartışma](https://news.ycombinator.com/item?id=50131256) |
+| [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | ⭐ 566 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50122878) |
+| [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) | ⭐ 462 | 💬 99 | [Tartışma](https://news.ycombinator.com/item?id=50126253) |
+| [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) | ⭐ 440 | 💬 39 | [Tartışma](https://news.ycombinator.com/item?id=50132193) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**
@@ -38,13 +38,13 @@
   *Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 - [📅 2026-10-16 Raporu](reports/2026-10-16.md)
 - [📅 2026-10-15 Raporu](reports/2026-10-15.md)
 - [📅 2026-10-14 Raporu](reports/2026-10-14.md)
 - [📅 2026-10-13 Raporu](reports/2026-10-13.md)
 - [📅 2026-10-12 Raporu](reports/2026-10-12.md)
-- [📅 2026-10-11 Raporu](reports/2026-10-11.md)
 <!-- LATEST_REPORT_END -->
 
 ---
