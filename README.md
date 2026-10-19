@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-18`
+### ⚡ Son Güncelleme: `2026-10-19`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-18.md`)](reports/2026-10-18.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-19.md`)](reports/2026-10-19.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | ⭐ 861 | 💬 656 | [Tartışma](https://news.ycombinator.com/item?id=50129045) |
-| [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) | ⭐ 612 | 💬 380 | [Tartışma](https://news.ycombinator.com/item?id=50131256) |
-| [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) | ⭐ 566 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50122878) |
-| [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) | ⭐ 462 | 💬 99 | [Tartışma](https://news.ycombinator.com/item?id=50126253) |
-| [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) | ⭐ 440 | 💬 39 | [Tartışma](https://news.ycombinator.com/item?id=50132193) |
+| [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | ⭐ 468 | 💬 169 | [Tartışma](https://news.ycombinator.com/item?id=50142573) |
+| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | ⭐ 428 | 💬 213 | [Tartışma](https://news.ycombinator.com/item?id=50145337) |
+| [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | ⭐ 404 | 💬 64 | [Tartışma](https://news.ycombinator.com/item?id=50141076) |
+| [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | ⭐ 402 | 💬 503 | [Tartışma](https://news.ycombinator.com/item?id=50136150) |
+| [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | ⭐ 287 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50149392) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**
-  *Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person...*
+- 📄 **[Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)**
+  *Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla...*
 
-- 📄 **[Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)**
-  *Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici...*
+- 📄 **[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)**
+  *Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...*
 
-- 📄 **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)**
-  *Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph...*
+- 📄 **[AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)**
+  *Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 - [📅 2026-10-16 Raporu](reports/2026-10-16.md)
 - [📅 2026-10-15 Raporu](reports/2026-10-15.md)
 - [📅 2026-10-14 Raporu](reports/2026-10-14.md)
 - [📅 2026-10-13 Raporu](reports/2026-10-13.md)
-- [📅 2026-10-12 Raporu](reports/2026-10-12.md)
 <!-- LATEST_REPORT_END -->
 
 ---
