@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-19`
+### ⚡ Son Güncelleme: `2026-10-20`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-19.md`)](reports/2026-10-19.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-20.md`)](reports/2026-10-20.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) | ⭐ 468 | 💬 169 | [Tartışma](https://news.ycombinator.com/item?id=50142573) |
-| [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) | ⭐ 428 | 💬 213 | [Tartışma](https://news.ycombinator.com/item?id=50145337) |
-| [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) | ⭐ 404 | 💬 64 | [Tartışma](https://news.ycombinator.com/item?id=50141076) |
-| [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) | ⭐ 402 | 💬 503 | [Tartışma](https://news.ycombinator.com/item?id=50136150) |
-| [Linux 7.3 Released](https://lwn.net/Articles/1101143/) | ⭐ 287 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50149392) |
+| [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | ⭐ 612 | 💬 528 | [Tartışma](https://news.ycombinator.com/item?id=50134472) |
+| [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | ⭐ 573 | 💬 195 | [Tartışma](https://news.ycombinator.com/item?id=50152307) |
+| [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | ⭐ 558 | 💬 120 | [Tartışma](https://news.ycombinator.com/item?id=50150089) |
+| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | ⭐ 469 | 💬 199 | [Tartışma](https://news.ycombinator.com/item?id=50154540) |
+| [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/) | ⭐ 468 | 💬 146 | [Tartışma](https://news.ycombinator.com/item?id=50147233) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)**
-  *Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla...*
+- 📄 **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**
+  *Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu...*
 
-- 📄 **[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)**
-  *Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr...*
+- 📄 **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)**
+  *Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...*
 
-- 📄 **[AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)**
-  *Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents...*
+- 📄 **[Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)**
+  *Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 - [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 - [📅 2026-10-16 Raporu](reports/2026-10-16.md)
 - [📅 2026-10-15 Raporu](reports/2026-10-15.md)
 - [📅 2026-10-14 Raporu](reports/2026-10-14.md)
-- [📅 2026-10-13 Raporu](reports/2026-10-13.md)
 <!-- LATEST_REPORT_END -->
 
 ---
