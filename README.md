@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-20`
+### ⚡ Son Güncelleme: `2026-10-21`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-20.md`)](reports/2026-10-20.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-21.md`)](reports/2026-10-21.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | ⭐ 612 | 💬 528 | [Tartışma](https://news.ycombinator.com/item?id=50134472) |
-| [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | ⭐ 573 | 💬 195 | [Tartışma](https://news.ycombinator.com/item?id=50152307) |
-| [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | ⭐ 558 | 💬 120 | [Tartışma](https://news.ycombinator.com/item?id=50150089) |
-| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | ⭐ 469 | 💬 199 | [Tartışma](https://news.ycombinator.com/item?id=50154540) |
-| [Starcraft: Ashfall](https://starcraft-shooter-2026.pages.dev/) | ⭐ 468 | 💬 146 | [Tartışma](https://news.ycombinator.com/item?id=50147233) |
+| [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | ⭐ 2259 | 💬 860 | [Tartışma](https://news.ycombinator.com/item?id=50163277) |
+| [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | ⭐ 990 | 💬 414 | [Tartışma](https://news.ycombinator.com/item?id=50166579) |
+| [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | ⭐ 965 | 💬 389 | [Tartışma](https://news.ycombinator.com/item?id=50172041) |
+| [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | ⭐ 813 | 💬 381 | [Tartışma](https://news.ycombinator.com/item?id=50170593) |
+| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | ⭐ 690 | 💬 172 | [Tartışma](https://news.ycombinator.com/item?id=50168396) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**
-  *Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu...*
+- 📄 **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**
+  *Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...*
 
-- 📄 **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)**
-  *Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...*
+- 📄 **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)**
+  *Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...*
 
-- 📄 **[Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)**
-  *Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill...*
+- 📄 **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)**
+  *Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 - [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 - [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 - [📅 2026-10-16 Raporu](reports/2026-10-16.md)
 - [📅 2026-10-15 Raporu](reports/2026-10-15.md)
-- [📅 2026-10-14 Raporu](reports/2026-10-14.md)
 <!-- LATEST_REPORT_END -->
 
 ---
