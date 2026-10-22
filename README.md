@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-21`
+### ⚡ Son Güncelleme: `2026-10-22`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-21.md`)](reports/2026-10-21.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-22.md`)](reports/2026-10-22.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | ⭐ 2259 | 💬 860 | [Tartışma](https://news.ycombinator.com/item?id=50163277) |
-| [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) | ⭐ 990 | 💬 414 | [Tartışma](https://news.ycombinator.com/item?id=50166579) |
-| [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509) | ⭐ 965 | 💬 389 | [Tartışma](https://news.ycombinator.com/item?id=50172041) |
-| [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | ⭐ 813 | 💬 381 | [Tartışma](https://news.ycombinator.com/item?id=50170593) |
-| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | ⭐ 690 | 💬 172 | [Tartışma](https://news.ycombinator.com/item?id=50168396) |
+| [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) | ⭐ 745 | 💬 369 | [Tartışma](https://news.ycombinator.com/item?id=50182987) |
+| [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html) | ⭐ 579 | 💬 333 | [Tartışma](https://news.ycombinator.com/item?id=50184820) |
+| [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | ⭐ 541 | 💬 328 | [Tartışma](https://news.ycombinator.com/item?id=50188948) |
+| [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 532 | 💬 172 | [Tartışma](https://news.ycombinator.com/item?id=50181114) |
+| [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) | ⭐ 499 | 💬 117 | [Tartışma](https://news.ycombinator.com/item?id=50189232) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**
-  *Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...*
+- 📄 **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)**
+  *Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable...*
 
-- 📄 **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)**
-  *Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...*
+- 📄 **[Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1)**
+  *Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...*
 
-- 📄 **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)**
-  *Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...*
+- 📄 **[PhysiCalWorld: In-Context Physics Calibration for World Models](http://arxiv.org/abs/2610.30125v1)**
+  *Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 - [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 - [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 - [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 - [📅 2026-10-16 Raporu](reports/2026-10-16.md)
-- [📅 2026-10-15 Raporu](reports/2026-10-15.md)
 <!-- LATEST_REPORT_END -->
 
 ---
