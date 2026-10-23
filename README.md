@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-22`
+### ⚡ Son Güncelleme: `2026-10-23`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-22.md`)](reports/2026-10-22.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-23.md`)](reports/2026-10-23.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) | ⭐ 745 | 💬 369 | [Tartışma](https://news.ycombinator.com/item?id=50182987) |
-| [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html) | ⭐ 579 | 💬 333 | [Tartışma](https://news.ycombinator.com/item?id=50184820) |
-| [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | ⭐ 541 | 💬 328 | [Tartışma](https://news.ycombinator.com/item?id=50188948) |
-| [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | ⭐ 532 | 💬 172 | [Tartışma](https://news.ycombinator.com/item?id=50181114) |
-| [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) | ⭐ 499 | 💬 117 | [Tartışma](https://news.ycombinator.com/item?id=50189232) |
+| [Quad9 to exit France](https://quad9.net/news/blog/au-revoir-france/) | ⭐ 1231 | 💬 413 | [Tartışma](https://news.ycombinator.com/item?id=50195959) |
+| [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) | ⭐ 1067 | 💬 688 | [Tartışma](https://news.ycombinator.com/item?id=50195110) |
+| [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416) | ⭐ 573 | 💬 220 | [Tartışma](https://news.ycombinator.com/item?id=50193416) |
+| [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | ⭐ 553 | 💬 170 | [Tartışma](https://news.ycombinator.com/item?id=50190363) |
+| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | ⭐ 523 | 💬 233 | [Tartışma](https://news.ycombinator.com/item?id=50202681) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)**
-  *Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable...*
+- 📄 **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**
+  *Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...*
 
-- 📄 **[Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1)**
-  *Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...*
+- 📄 **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)**
+  *Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...*
 
-- 📄 **[PhysiCalWorld: In-Context Physics Calibration for World Models](http://arxiv.org/abs/2610.30125v1)**
-  *Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...*
+- 📄 **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)**
+  *Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 - [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 - [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 - [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 - [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
 - [📅 2026-10-17 Raporu](reports/2026-10-17.md)
-- [📅 2026-10-16 Raporu](reports/2026-10-16.md)
 <!-- LATEST_REPORT_END -->
 
 ---
