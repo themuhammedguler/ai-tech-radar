@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-23`
+### ⚡ Son Güncelleme: `2026-10-24`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-23.md`)](reports/2026-10-23.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-24.md`)](reports/2026-10-24.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Quad9 to exit France](https://quad9.net/news/blog/au-revoir-france/) | ⭐ 1231 | 💬 413 | [Tartışma](https://news.ycombinator.com/item?id=50195959) |
-| [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) | ⭐ 1067 | 💬 688 | [Tartışma](https://news.ycombinator.com/item?id=50195110) |
-| [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416) | ⭐ 573 | 💬 220 | [Tartışma](https://news.ycombinator.com/item?id=50193416) |
-| [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) | ⭐ 553 | 💬 170 | [Tartışma](https://news.ycombinator.com/item?id=50190363) |
-| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | ⭐ 523 | 💬 233 | [Tartışma](https://news.ycombinator.com/item?id=50202681) |
+| [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 1385 | 💬 235 | [Tartışma](https://news.ycombinator.com/item?id=50202285) |
+| [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | ⭐ 916 | 💬 534 | [Tartışma](https://news.ycombinator.com/item?id=50212065) |
+| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | ⭐ 886 | 💬 581 | [Tartışma](https://news.ycombinator.com/item?id=50211474) |
+| [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | ⭐ 765 | 💬 232 | [Tartışma](https://news.ycombinator.com/item?id=50207910) |
+| [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) | ⭐ 418 | 💬 220 | [Tartışma](https://news.ycombinator.com/item?id=50202114) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**
@@ -38,13 +38,13 @@
   *Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 - [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 - [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 - [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 - [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 - [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 - [📅 2026-10-18 Raporu](reports/2026-10-18.md)
-- [📅 2026-10-17 Raporu](reports/2026-10-17.md)
 <!-- LATEST_REPORT_END -->
 
 ---
