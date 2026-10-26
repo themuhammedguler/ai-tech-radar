@@ -13,38 +13,31 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-25`
+### ⚡ Son Güncelleme: `2026-10-26`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-25.md`)](reports/2026-10-25.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-26.md`)](reports/2026-10-26.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | ⭐ 1593 | 💬 247 | [Tartışma](https://news.ycombinator.com/item?id=50202285) |
-| [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) | ⭐ 493 | 💬 306 | [Tartışma](https://news.ycombinator.com/item?id=50224916) |
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 444 | 💬 385 | [Tartışma](https://news.ycombinator.com/item?id=50225695) |
-| [The Goose Programming Language](https://aardappel.github.io/goose/) | ⭐ 413 | 💬 250 | [Tartışma](https://news.ycombinator.com/item?id=50224100) |
-| [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) | ⭐ 371 | 💬 378 | [Tartışma](https://news.ycombinator.com/item?id=50226419) |
+| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 819 | 💬 722 | [Tartışma](https://news.ycombinator.com/item?id=50225695) |
+| [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | ⭐ 582 | 💬 247 | [Tartışma](https://news.ycombinator.com/item?id=50233779) |
+| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | ⭐ 572 | 💬 96 | [Tartışma](https://news.ycombinator.com/item?id=50234474) |
+| [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) | ⭐ 498 | 💬 241 | [Tartışma](https://news.ycombinator.com/item?id=50233929) |
+| [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) | ⭐ 346 | 💬 335 | [Tartışma](https://news.ycombinator.com/item?id=50236102) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**
-  *Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...*
 
-- 📄 **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)**
-  *Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...*
-
-- 📄 **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)**
-  *Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 - [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 - [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 - [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 - [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 - [📅 2026-10-20 Raporu](reports/2026-10-20.md)
-- [📅 2026-10-19 Raporu](reports/2026-10-19.md)
 <!-- LATEST_REPORT_END -->
 
 ---
