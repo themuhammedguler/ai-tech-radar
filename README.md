@@ -13,31 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-26`
+### ⚡ Son Güncelleme: `2026-10-27`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-26.md`)](reports/2026-10-26.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-27.md`)](reports/2026-10-27.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | ⭐ 819 | 💬 722 | [Tartışma](https://news.ycombinator.com/item?id=50225695) |
-| [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | ⭐ 582 | 💬 247 | [Tartışma](https://news.ycombinator.com/item?id=50233779) |
-| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | ⭐ 572 | 💬 96 | [Tartışma](https://news.ycombinator.com/item?id=50234474) |
-| [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) | ⭐ 498 | 💬 241 | [Tartışma](https://news.ycombinator.com/item?id=50233929) |
-| [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) | ⭐ 346 | 💬 335 | [Tartışma](https://news.ycombinator.com/item?id=50236102) |
+| [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | ⭐ 1627 | 💬 1554 | [Tartışma](https://news.ycombinator.com/item?id=50242939) |
+| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | ⭐ 951 | 💬 481 | [Tartışma](https://news.ycombinator.com/item?id=50251344) |
+| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | ⭐ 727 | 💬 101 | [Tartışma](https://news.ycombinator.com/item?id=50245138) |
+| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | ⭐ 650 | 💬 242 | [Tartışma](https://news.ycombinator.com/item?id=50251661) |
+| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | ⭐ 492 | 💬 106 | [Tartışma](https://news.ycombinator.com/item?id=50245831) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
+- 📄 **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**
+  *While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...*
 
+- 📄 **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)**
+  *Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...*
+
+- 📄 **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)**
+  *As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 - [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 - [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 - [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 - [📅 2026-10-21 Raporu](reports/2026-10-21.md)
-- [📅 2026-10-20 Raporu](reports/2026-10-20.md)
 <!-- LATEST_REPORT_END -->
 
 ---
