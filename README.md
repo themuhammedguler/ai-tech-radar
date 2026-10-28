@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-27`
+### ⚡ Son Güncelleme: `2026-10-28`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-27.md`)](reports/2026-10-27.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-28.md`)](reports/2026-10-28.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) | ⭐ 1627 | 💬 1554 | [Tartışma](https://news.ycombinator.com/item?id=50242939) |
-| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | ⭐ 951 | 💬 481 | [Tartışma](https://news.ycombinator.com/item?id=50251344) |
-| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | ⭐ 727 | 💬 101 | [Tartışma](https://news.ycombinator.com/item?id=50245138) |
-| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | ⭐ 650 | 💬 242 | [Tartışma](https://news.ycombinator.com/item?id=50251661) |
-| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | ⭐ 492 | 💬 106 | [Tartışma](https://news.ycombinator.com/item?id=50245831) |
+| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | ⭐ 1083 | 💬 343 | [Tartışma](https://news.ycombinator.com/item?id=50261998) |
+| [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) | ⭐ 966 | 💬 367 | [Tartışma](https://news.ycombinator.com/item?id=50259604) |
+| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | ⭐ 920 | 💬 532 | [Tartışma](https://news.ycombinator.com/item?id=50261319) |
+| [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) | ⭐ 527 | 💬 283 | [Tartışma](https://news.ycombinator.com/item?id=50257419) |
+| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | ⭐ 384 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50264853) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**
-  *While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...*
+- 📄 **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**
+  *Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...*
 
-- 📄 **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)**
-  *Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...*
+- 📄 **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)**
+  *Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...*
 
-- 📄 **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)**
-  *As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark...*
+- 📄 **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)**
+  *Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 - [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 - [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 - [📅 2026-10-22 Raporu](reports/2026-10-22.md)
-- [📅 2026-10-21 Raporu](reports/2026-10-21.md)
 <!-- LATEST_REPORT_END -->
 
 ---
