@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-28`
+### ⚡ Son Güncelleme: `2026-10-29`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-28.md`)](reports/2026-10-28.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-29.md`)](reports/2026-10-29.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | ⭐ 1083 | 💬 343 | [Tartışma](https://news.ycombinator.com/item?id=50261998) |
-| [US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) | ⭐ 966 | 💬 367 | [Tartışma](https://news.ycombinator.com/item?id=50259604) |
-| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | ⭐ 920 | 💬 532 | [Tartışma](https://news.ycombinator.com/item?id=50261319) |
-| [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) | ⭐ 527 | 💬 283 | [Tartışma](https://news.ycombinator.com/item?id=50257419) |
-| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | ⭐ 384 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50264853) |
+| [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | ⭐ 1327 | 💬 248 | [Tartışma](https://news.ycombinator.com/item?id=50276998) |
+| [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) | ⭐ 1149 | 💬 399 | [Tartışma](https://news.ycombinator.com/item?id=50271640) |
+| [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | ⭐ 955 | 💬 764 | [Tartışma](https://news.ycombinator.com/item?id=50276792) |
+| [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) | ⭐ 595 | 💬 994 | [Tartışma](https://news.ycombinator.com/item?id=50276940) |
+| [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) | ⭐ 547 | 💬 452 | [Tartışma](https://news.ycombinator.com/item?id=50282454) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**
@@ -38,13 +38,13 @@
   *Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 - [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 - [📅 2026-10-23 Raporu](reports/2026-10-23.md)
-- [📅 2026-10-22 Raporu](reports/2026-10-22.md)
 <!-- LATEST_REPORT_END -->
 
 ---
