@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-29`
+### ⚡ Son Güncelleme: `2026-10-30`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-29.md`)](reports/2026-10-29.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-30.md`)](reports/2026-10-30.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | ⭐ 1327 | 💬 248 | [Tartışma](https://news.ycombinator.com/item?id=50276998) |
-| [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) | ⭐ 1149 | 💬 399 | [Tartışma](https://news.ycombinator.com/item?id=50271640) |
-| [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | ⭐ 955 | 💬 764 | [Tartışma](https://news.ycombinator.com/item?id=50276792) |
-| [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/) | ⭐ 595 | 💬 994 | [Tartışma](https://news.ycombinator.com/item?id=50276940) |
-| [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) | ⭐ 547 | 💬 452 | [Tartışma](https://news.ycombinator.com/item?id=50282454) |
+| [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) | ⭐ 3071 | 💬 654 | [Tartışma](https://news.ycombinator.com/item?id=50294702) |
+| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | ⭐ 1538 | 💬 404 | [Tartışma](https://news.ycombinator.com/item?id=50289418) |
+| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | ⭐ 1477 | 💬 954 | [Tartışma](https://news.ycombinator.com/item?id=50296470) |
+| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | ⭐ 503 | 💬 263 | [Tartışma](https://news.ycombinator.com/item?id=50290177) |
+| [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/) | ⭐ 454 | 💬 151 | [Tartışma](https://news.ycombinator.com/item?id=50291054) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**
-  *Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...*
+- 📄 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**
+  *An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...*
 
-- 📄 **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)**
-  *Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...*
+- 📄 **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)**
+  *The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...*
 
-- 📄 **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)**
-  *Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve...*
+- 📄 **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)**
+  *Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 - [📅 2026-10-24 Raporu](reports/2026-10-24.md)
-- [📅 2026-10-23 Raporu](reports/2026-10-23.md)
 <!-- LATEST_REPORT_END -->
 
 ---
