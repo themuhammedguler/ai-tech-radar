@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-30`
+### ⚡ Son Güncelleme: `2026-10-31`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-30.md`)](reports/2026-10-30.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-31.md`)](reports/2026-10-31.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) | ⭐ 3071 | 💬 654 | [Tartışma](https://news.ycombinator.com/item?id=50294702) |
-| [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) | ⭐ 1538 | 💬 404 | [Tartışma](https://news.ycombinator.com/item?id=50289418) |
-| [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) | ⭐ 1477 | 💬 954 | [Tartışma](https://news.ycombinator.com/item?id=50296470) |
-| [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | ⭐ 503 | 💬 263 | [Tartışma](https://news.ycombinator.com/item?id=50290177) |
-| [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/) | ⭐ 454 | 💬 151 | [Tartışma](https://news.ycombinator.com/item?id=50291054) |
+| [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | ⭐ 908 | 💬 533 | [Tartışma](https://news.ycombinator.com/item?id=50300683) |
+| [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | ⭐ 471 | 💬 326 | [Tartışma](https://news.ycombinator.com/item?id=50303172) |
+| [Northflank Breached](https://status.northflank.com) | ⭐ 444 | 💬 317 | [Tartışma](https://news.ycombinator.com/item?id=50305025) |
+| [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | ⭐ 315 | 💬 91 | [Tartışma](https://news.ycombinator.com/item?id=50307190) |
+| [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) | ⭐ 313 | 💬 58 | [Tartışma](https://news.ycombinator.com/item?id=50301854) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**
@@ -38,13 +38,13 @@
   *Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 - [📅 2026-10-25 Raporu](reports/2026-10-25.md)
-- [📅 2026-10-24 Raporu](reports/2026-10-24.md)
 <!-- LATEST_REPORT_END -->
 
 ---
