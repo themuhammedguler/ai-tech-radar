@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-10-31`
+### ⚡ Son Güncelleme: `2026-11-01`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-10-31.md`)](reports/2026-10-31.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-01.md`)](reports/2026-11-01.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) | ⭐ 908 | 💬 533 | [Tartışma](https://news.ycombinator.com/item?id=50300683) |
-| [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) | ⭐ 471 | 💬 326 | [Tartışma](https://news.ycombinator.com/item?id=50303172) |
-| [Northflank Breached](https://status.northflank.com) | ⭐ 444 | 💬 317 | [Tartışma](https://news.ycombinator.com/item?id=50305025) |
-| [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | ⭐ 315 | 💬 91 | [Tartışma](https://news.ycombinator.com/item?id=50307190) |
-| [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case) | ⭐ 313 | 💬 58 | [Tartışma](https://news.ycombinator.com/item?id=50301854) |
+| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | ⭐ 1471 | 💬 397 | [Tartışma](https://news.ycombinator.com/item?id=50319510) |
+| [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) | ⭐ 548 | 💬 250 | [Tartışma](https://news.ycombinator.com/item?id=50319143) |
+| [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) | ⭐ 512 | 💬 158 | [Tartışma](https://news.ycombinator.com/item?id=50320963) |
+| [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) | ⭐ 344 | 💬 168 | [Tartışma](https://news.ycombinator.com/item?id=50314699) |
+| [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) | ⭐ 282 | 💬 161 | [Tartışma](https://news.ycombinator.com/item?id=50316100) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**
@@ -38,13 +38,13 @@
   *Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 - [📅 2026-10-26 Raporu](reports/2026-10-26.md)
-- [📅 2026-10-25 Raporu](reports/2026-10-25.md)
 <!-- LATEST_REPORT_END -->
 
 ---
