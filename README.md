@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-01`
+### ⚡ Son Güncelleme: `2026-11-02`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-01.md`)](reports/2026-11-01.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-02.md`)](reports/2026-11-02.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | ⭐ 1471 | 💬 397 | [Tartışma](https://news.ycombinator.com/item?id=50319510) |
-| [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) | ⭐ 548 | 💬 250 | [Tartışma](https://news.ycombinator.com/item?id=50319143) |
-| [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) | ⭐ 512 | 💬 158 | [Tartışma](https://news.ycombinator.com/item?id=50320963) |
-| [Do the math: How we took over ChatGPT accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) | ⭐ 344 | 💬 168 | [Tartışma](https://news.ycombinator.com/item?id=50314699) |
-| [Jepsen: ParticleDB 1.1.4](https://jepsen.io/analyses/particledb-1.1.4) | ⭐ 282 | 💬 161 | [Tartışma](https://news.ycombinator.com/item?id=50316100) |
+| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | ⭐ 2717 | 💬 601 | [Tartışma](https://news.ycombinator.com/item?id=50319510) |
+| [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) | ⭐ 1657 | 💬 275 | [Tartışma](https://news.ycombinator.com/item?id=50326821) |
+| [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) | ⭐ 652 | 💬 399 | [Tartışma](https://news.ycombinator.com/item?id=50312408) |
+| [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) | ⭐ 536 | 💬 645 | [Tartışma](https://news.ycombinator.com/item?id=50328896) |
+| [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) | ⭐ 416 | 💬 322 | [Tartışma](https://news.ycombinator.com/item?id=50323088) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**
-  *An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...*
+- 📄 **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**
+  *Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...*
 
-- 📄 **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)**
-  *The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...*
+- 📄 **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)**
+  *Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...*
 
-- 📄 **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)**
-  *Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...*
+- 📄 **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)**
+  *Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 - [📅 2026-10-27 Raporu](reports/2026-10-27.md)
-- [📅 2026-10-26 Raporu](reports/2026-10-26.md)
 <!-- LATEST_REPORT_END -->
 
 ---
