@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-02`
+### ⚡ Son Güncelleme: `2026-11-03`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-02.md`)](reports/2026-11-02.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-03.md`)](reports/2026-11-03.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) | ⭐ 2717 | 💬 601 | [Tartışma](https://news.ycombinator.com/item?id=50319510) |
-| [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) | ⭐ 1657 | 💬 275 | [Tartışma](https://news.ycombinator.com/item?id=50326821) |
-| [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) | ⭐ 652 | 💬 399 | [Tartışma](https://news.ycombinator.com/item?id=50312408) |
-| [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) | ⭐ 536 | 💬 645 | [Tartışma](https://news.ycombinator.com/item?id=50328896) |
-| [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) | ⭐ 416 | 💬 322 | [Tartışma](https://news.ycombinator.com/item?id=50323088) |
+| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | ⭐ 2832 | 💬 856 | [Tartışma](https://news.ycombinator.com/item?id=50341174) |
+| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | ⭐ 747 | 💬 351 | [Tartışma](https://news.ycombinator.com/item?id=50340088) |
+| [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | ⭐ 603 | 💬 141 | [Tartışma](https://news.ycombinator.com/item?id=50336518) |
+| [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | ⭐ 435 | 💬 414 | [Tartışma](https://news.ycombinator.com/item?id=50339397) |
+| [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) | ⭐ 346 | 💬 108 | [Tartışma](https://news.ycombinator.com/item?id=50346981) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**
-  *Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...*
+- 📄 **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)**
+  *Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...*
 
-- 📄 **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)**
-  *Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...*
+- 📄 **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](http://arxiv.org/abs/2611.03648v1)**
+  *General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...*
 
-- 📄 **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)**
-  *Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...*
+- 📄 **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1)**
+  *Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 - [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 - [📅 2026-10-28 Raporu](reports/2026-10-28.md)
-- [📅 2026-10-27 Raporu](reports/2026-10-27.md)
 <!-- LATEST_REPORT_END -->
 
 ---
