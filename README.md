@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-03`
+### ⚡ Son Güncelleme: `2026-11-04`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-03.md`)](reports/2026-11-03.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-04.md`)](reports/2026-11-04.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) | ⭐ 2832 | 💬 856 | [Tartışma](https://news.ycombinator.com/item?id=50341174) |
-| [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) | ⭐ 747 | 💬 351 | [Tartışma](https://news.ycombinator.com/item?id=50340088) |
-| [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | ⭐ 603 | 💬 141 | [Tartışma](https://news.ycombinator.com/item?id=50336518) |
-| [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) | ⭐ 435 | 💬 414 | [Tartışma](https://news.ycombinator.com/item?id=50339397) |
-| [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) | ⭐ 346 | 💬 108 | [Tartışma](https://news.ycombinator.com/item?id=50346981) |
+| [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) | ⭐ 1376 | 💬 456 | [Tartışma](https://news.ycombinator.com/item?id=50354960) |
+| [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | ⭐ 877 | 💬 331 | [Tartışma](https://news.ycombinator.com/item?id=50339288) |
+| [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | ⭐ 667 | 💬 210 | [Tartışma](https://news.ycombinator.com/item?id=50354358) |
+| [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | ⭐ 667 | 💬 194 | [Tartışma](https://news.ycombinator.com/item?id=50355251) |
+| [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | ⭐ 496 | 💬 211 | [Tartışma](https://news.ycombinator.com/item?id=50336918) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)**
-  *Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...*
+- 📄 **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**
+  *Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...*
 
-- 📄 **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](http://arxiv.org/abs/2611.03648v1)**
-  *General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...*
+- 📄 **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1)**
+  *For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on...*
 
-- 📄 **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1)**
-  *Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...*
+- 📄 **[Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization](http://arxiv.org/abs/2611.05373v1)**
+  *Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 - [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 - [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 - [📅 2026-10-29 Raporu](reports/2026-10-29.md)
-- [📅 2026-10-28 Raporu](reports/2026-10-28.md)
 <!-- LATEST_REPORT_END -->
 
 ---
