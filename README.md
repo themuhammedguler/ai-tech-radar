@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-04`
+### ⚡ Son Güncelleme: `2026-11-05`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-04.md`)](reports/2026-11-04.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-05.md`)](reports/2026-11-05.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) | ⭐ 1376 | 💬 456 | [Tartışma](https://news.ycombinator.com/item?id=50354960) |
-| [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) | ⭐ 877 | 💬 331 | [Tartışma](https://news.ycombinator.com/item?id=50339288) |
-| [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) | ⭐ 667 | 💬 210 | [Tartışma](https://news.ycombinator.com/item?id=50354358) |
-| [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) | ⭐ 667 | 💬 194 | [Tartışma](https://news.ycombinator.com/item?id=50355251) |
-| [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) | ⭐ 496 | 💬 211 | [Tartışma](https://news.ycombinator.com/item?id=50336918) |
+| [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | ⭐ 1222 | 💬 712 | [Tartışma](https://news.ycombinator.com/item?id=50364336) |
+| [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) | ⭐ 1166 | 💬 377 | [Tartışma](https://news.ycombinator.com/item?id=50371246) |
+| [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | ⭐ 577 | 💬 164 | [Tartışma](https://news.ycombinator.com/item?id=50366999) |
+| [Sshole](https://sshhole.com) | ⭐ 435 | 💬 99 | [Tartışma](https://news.ycombinator.com/item?id=50378228) |
+| [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) | ⭐ 419 | 💬 300 | [Tartışma](https://news.ycombinator.com/item?id=50372929) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**
-  *Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...*
+- 📄 **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**
+  *Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been...*
 
-- 📄 **[From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](http://arxiv.org/abs/2611.05376v1)**
-  *For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on...*
+- 📄 **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)**
+  *Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...*
 
-- 📄 **[Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization](http://arxiv.org/abs/2611.05373v1)**
-  *Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...*
+- 📄 **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)**
+  *Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 - [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 - [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 - [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 - [📅 2026-10-30 Raporu](reports/2026-10-30.md)
-- [📅 2026-10-29 Raporu](reports/2026-10-29.md)
 <!-- LATEST_REPORT_END -->
 
 ---
