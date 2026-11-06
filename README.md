@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-05`
+### ⚡ Son Güncelleme: `2026-11-06`
 
 > 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-05.md`)](reports/2026-11-05.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-06.md`)](reports/2026-11-06.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Başlık | Puan | Yorum | HN Linki |
 |--------|:----:|:-----:|:--------:|
-| [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | ⭐ 1222 | 💬 712 | [Tartışma](https://news.ycombinator.com/item?id=50364336) |
-| [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) | ⭐ 1166 | 💬 377 | [Tartışma](https://news.ycombinator.com/item?id=50371246) |
-| [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | ⭐ 577 | 💬 164 | [Tartışma](https://news.ycombinator.com/item?id=50366999) |
-| [Sshole](https://sshhole.com) | ⭐ 435 | 💬 99 | [Tartışma](https://news.ycombinator.com/item?id=50378228) |
-| [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) | ⭐ 419 | 💬 300 | [Tartışma](https://news.ycombinator.com/item?id=50372929) |
+| [sshole](https://sshhole.com) | ⭐ 2789 | 💬 676 | [Tartışma](https://news.ycombinator.com/item?id=50378228) |
+| [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) | ⭐ 1295 | 💬 408 | [Tartışma](https://news.ycombinator.com/item?id=50385272) |
+| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | ⭐ 598 | 💬 222 | [Tartışma](https://news.ycombinator.com/item?id=50384233) |
+| [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | ⭐ 520 | 💬 371 | [Tartışma](https://news.ycombinator.com/item?id=50380810) |
+| [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) | ⭐ 477 | 💬 378 | [Tartışma](https://news.ycombinator.com/item?id=50378942) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**
-  *Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been...*
+- 📄 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**
+  *User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in...*
 
-- 📄 **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)**
-  *Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...*
+- 📄 **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)**
+  *LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process...*
 
-- 📄 **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)**
-  *Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...*
+- 📄 **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)**
+  *AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-06 Raporu](reports/2026-11-06.md)
 - [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 - [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 - [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 - [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
 - [📅 2026-10-31 Raporu](reports/2026-10-31.md)
-- [📅 2026-10-30 Raporu](reports/2026-10-30.md)
 <!-- LATEST_REPORT_END -->
 
 ---
