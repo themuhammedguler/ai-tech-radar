@@ -15,27 +15,27 @@
 <!-- LATEST_REPORT_START -->
 ### ⚡ Son Güncelleme: `2026-11-06`
 
-> 📊 **Bugünün Özeti:** 10 HackerNews teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
+> 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
 > 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-06.md`)](reports/2026-11-06.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
-| Başlık | Puan | Yorum | HN Linki |
-|--------|:----:|:-----:|:--------:|
-| [sshole](https://sshhole.com) | ⭐ 2789 | 💬 676 | [Tartışma](https://news.ycombinator.com/item?id=50378228) |
-| [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) | ⭐ 1295 | 💬 408 | [Tartışma](https://news.ycombinator.com/item?id=50385272) |
-| [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) | ⭐ 598 | 💬 222 | [Tartışma](https://news.ycombinator.com/item?id=50384233) |
-| [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/) | ⭐ 520 | 💬 371 | [Tartışma](https://news.ycombinator.com/item?id=50380810) |
-| [I wish tech companies knew more about me](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) | ⭐ 477 | 💬 378 | [Tartışma](https://news.ycombinator.com/item?id=50378942) |
+| Kategori | Başlık | Puan | Yorum | HN Linki |
+|:--------:|--------|:----:|:-----:|:--------:|
+| `💻 Yazılım & Geliştirme` | [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) | ⭐ 624 | 💬 253 | [Tartışma](https://news.ycombinator.com/item?id=50389333) |
+| `🤖 AI / ML` | [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune) | ⭐ 106 | 💬 81 | [Tartışma](https://news.ycombinator.com/item?id=50394569) |
+| `💻 Yazılım & Geliştirme` | [We've built an open-source feature flag server for 11 years](https://github.com/Unleash/unleash) | ⭐ 126 | 💬 82 | [Tartışma](https://news.ycombinator.com/item?id=50391145) |
+| `💻 Yazılım & Geliştirme` | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | ⭐ 122 | 💬 14 | [Tartışma](https://news.ycombinator.com/item?id=50394855) |
+| `🤖 AI / ML` | [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) | ⭐ 256 | 💬 199 | [Tartışma](https://news.ycombinator.com/item?id=50392118) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**
-  *User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in...*
+- 📄 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)** `cs.LG` *(Yazarlar: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen vb.)*
+  *User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability.*
 
-- 📄 **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)**
-  *LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process...*
+- 📄 **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)** `cs.AI` *(Yazarlar: Qile Jiang, George Em Karniadakis)*
+  *LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity.*
 
-- 📄 **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)**
-  *AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc...*
+- 📄 **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)** `cs.AI` *(Yazarlar: Taiming Lu, Sachin Konan, Zhuang Liu)*
+  *AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment.*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
