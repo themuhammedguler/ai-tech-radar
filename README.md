@@ -13,19 +13,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-06`
+### ⚡ Son Güncelleme: `2026-11-07`
 
 > 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-06.md`)](reports/2026-11-06.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-07.md`)](reports/2026-11-07.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `💻 Yazılım & Geliştirme` | [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI) | ⭐ 624 | 💬 253 | [Tartışma](https://news.ycombinator.com/item?id=50389333) |
-| `🤖 AI / ML` | [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune) | ⭐ 106 | 💬 81 | [Tartışma](https://news.ycombinator.com/item?id=50394569) |
-| `💻 Yazılım & Geliştirme` | [We've built an open-source feature flag server for 11 years](https://github.com/Unleash/unleash) | ⭐ 126 | 💬 82 | [Tartışma](https://news.ycombinator.com/item?id=50391145) |
-| `💻 Yazılım & Geliştirme` | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | ⭐ 122 | 💬 14 | [Tartışma](https://news.ycombinator.com/item?id=50394855) |
-| `🤖 AI / ML` | [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) | ⭐ 256 | 💬 199 | [Tartışma](https://news.ycombinator.com/item?id=50392118) |
+| `🤖 AI / ML` | [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) | ⭐ 504 | 💬 120 | [Tartışma](https://news.ycombinator.com/item?id=50397429) |
+| `🛡️ Güvenlik` | [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) | ⭐ 250 | 💬 109 | [Tartışma](https://news.ycombinator.com/item?id=50397219) |
+| `💻 Yazılım & Geliştirme` | [GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) | ⭐ 157 | 💬 35 | [Tartışma](https://news.ycombinator.com/item?id=50397099) |
+| `💻 Yazılım & Geliştirme` | [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | ⭐ 227 | 💬 42 | [Tartışma](https://news.ycombinator.com/item?id=50394855) |
+| `⚙️ Sistem & Altyapı` | [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | ⭐ 349 | 💬 285 | [Tartışma](https://news.ycombinator.com/item?id=50388001) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)** `cs.LG` *(Yazarlar: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen vb.)*
@@ -38,13 +38,13 @@
   *AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment.*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
 - [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 - [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 - [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 - [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 - [📅 2026-11-01 Raporu](reports/2026-11-01.md)
-- [📅 2026-10-31 Raporu](reports/2026-10-31.md)
 <!-- LATEST_REPORT_END -->
 
 ---
