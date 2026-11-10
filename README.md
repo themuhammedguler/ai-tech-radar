@@ -3,12 +3,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white" alt="Python 3.11+">
   <img src="https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Data_Sources-HackerNews%20%7C%20ArXiv-orange" alt="Data Sources">
-  <img src="https://img.shields.io/badge/Pipeline-Autonomous_ETL-success" alt="ETL Pipeline">
+  <img src="https://img.shields.io/badge/Tests-23%20Passed%20(Pytest)-brightgreen?logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/Architecture-Modular%20SOLID-purple" alt="Modular SOLID">
+  <img src="https://img.shields.io/badge/Security-Enforced%20HTTPS-success?logo=letsencrypt&logoColor=white" alt="HTTPS Enforced">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
 </p>
 
-> **AI & Tech Daily Radar**, her gün GitHub Actions üzerinde otonom olarak çalışan; HackerNews üzerindeki en sıcak teknoloji gelişmelerini ve ArXiv üzerindeki en yeni Yapay Zeka / Makine Öğrenimi (AI & ML) araştırma makalelerini toplayıp derleyen modern bir veri hattıdır (data pipeline).
+> **AI & Tech Daily Radar**, her gün GitHub Actions üzerinde otonom çalışan, kurumsal seviyede hata toleransına, modüler mimariye ve otomatik test güvencesine sahip bir **Yapay Zeka ve Teknoloji Veri Hattıdır (ETL Pipeline)**.
+> HackerNews ve ArXiv (`cs.AI`, `cs.LG`, `cs.CL`) üzerindeki sinyalleri yakalar, gürültüyü akıllı NLP kurallarıyla eler ve şeffaf biçimde raporlar.
 
 ---
 
@@ -21,21 +23,21 @@
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | ⭐ 713 | 💬 879 | [Tartışma](https://news.ycombinator.com/item?id=50429068) |
-| `💻 Yazılım & Geliştirme` | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | ⭐ 669 | 💬 339 | [Tartışma](https://news.ycombinator.com/item?id=50431058) |
-| `🤖 AI / ML` | [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | ⭐ 92 | 💬 29 | [Tartışma](https://news.ycombinator.com/item?id=50437106) |
-| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 209 | 💬 84 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
-| `🛡️ Güvenlik` | [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) | ⭐ 81 | 💬 61 | [Tartışma](https://news.ycombinator.com/item?id=50437790) |
+| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 485 | 💬 158 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
+| `🤖 AI / ML` | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | ⭐ 48 | 💬 11 | [Tartışma](https://news.ycombinator.com/item?id=50443812) |
+| `🛡️ Güvenlik` | [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/) | ⭐ 165 | 💬 104 | [Tartışma](https://news.ycombinator.com/item?id=50437790) |
+| `🤖 AI / ML` | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) | ⭐ 188 | 💬 244 | [Tartışma](https://news.ycombinator.com/item?id=50438318) |
+| `💻 Yazılım & Geliştirme` | [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime) | ⭐ 160 | 💬 107 | [Tartışma](https://news.ycombinator.com/item?id=50439284) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)** `cs.LG` *(Yazarlar: Zhaoying Pan, Yipei Wang, Shenyu Lu vb.)*
-  *Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary.*
+- 📄 **[Guiding Data Allocation for Robust Subpopulation Generalization](https://arxiv.org/abs/2611.12884v1)** `cs.LG` *(Yazarlar: Zhaoying Pan, Yipei Wang, Shenyu Lu vb.)*
+  *📅 Yayın: 2026-11-09* — Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary.
 
-- 📄 **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)** `cs.LG` *(Yazarlar: Majdi Hassan, Marta Skreta, Dominique Beaini vb.)*
-  *Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance.*
+- 📄 **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](https://arxiv.org/abs/2611.12880v1)** `cs.LG` *(Yazarlar: Majdi Hassan, Marta Skreta, Dominique Beaini vb.)*
+  *📅 Yayın: 2026-11-09* — Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance.
 
-- 📄 **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)** `cs.LG` *(Yazarlar: Sreejeet Maity, Aritra Mitra)*
-  *Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel.*
+- 📄 **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](https://arxiv.org/abs/2611.12878v1)** `cs.LG` *(Yazarlar: Sreejeet Maity, Aritra Mitra)*
+  *📅 Yayın: 2026-11-09* — Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
@@ -49,56 +51,76 @@
 
 ---
 
-## 🏗️ Mimari ve Nasıl Çalışır?
+## 🏗️ Üretim Seviyesi Modüler Mimari
 
-Bu sistem, harici bir sunucu veya veritabanı ihtiyacı olmadan tamamen **serverless** ve **Git-as-a-Database** yaklaşımıyla çalışacak şekilde tasarlanmıştır:
+Proje, tek dosyalık prototip yaklaşımından çıkarılıp **Clean Architecture** ve **SOLID** prensiplerine uygun olarak modüler paketlere ayrılmıştır:
 
-```mermaid
-flowchart LR
-    A["⏰ GitHub Actions Cron<br/>(Her gün UTC 06:00)"] --> B["🐍 Python Pipeline<br/>(fetch_trends.py)"]
-    B --> C["📰 HackerNews API<br/>(Top 10 Tech News)"]
-    B --> D["📚 ArXiv API<br/>(Latest AI/ML Papers)"]
-    C --> E["📝 Rapor Üretimi<br/>(reports/YYYY-MM-DD.md)"]
-    D --> E
-    E --> F["📄 README Güncelleme<br/>(Özet + Son 7 Gün Arşivi)"]
-    F --> G["🚀 Git Commit & Push<br/>(Otonom Versiyonlama)"]
 ```
-
-### ⚙️ Çalışma Aşamaları (ETL)
-
-1. **Extract (Çıkarma):**
-   - **HackerNews Algolia API:** Günün en popüler 10 teknoloji trendini (başlık, puan, yorum sayısı, URL) çeker.
-   - **ArXiv API:** Bilgisayar Bilimleri / Yapay Zeka (`cs.AI`) ve Makine Öğrenimi (`cs.LG`) kategorilerinde yayımlanan en güncel 5 akademik makaleyi (`ElementTree` XML ayrıştırıcı ile) çeker.
-
-2. **Transform (Dönüştürme):**
-   - Alınan ham veriler standart bir Markdown formatına dönüştürülür.
-   - Makale özetleri optimize edilir, tablolar ve bağlantılar biçimlendirilir.
-   - Son 7 günün arşiv linkleri otomatik tespit edilir.
-
-3. **Load (Yükleme & Dağıtım):**
-   - Günün tarihine özel `reports/YYYY-MM-DD.md` dosyası oluşturulur.
-   - Ana dizindeki `README.md` dosyasındaki belirlenmiş işaretçiler arasına güncel özet ve arşiv tablosu işlenir.
-   - Değişiklikler GitHub Actions botu tarafından depoya geri `commit` ve `push` edilir.
+src/
+├── config.py                 # Merkezi ayarlar, zaman aşımları, filtre kuralları ve kategoriler
+├── models.py                 # Immutability ve doğrulama garantili veri modelleri (TrendItem, ArxivPaper)
+├── logging_config.py         # Yapılandırılmış, renkli ve standart logging altyapısı
+├── pipeline.py               # Uçtan uca veri akışı orkestratörü ve kritik hata denetleyicisi
+├── fetch_trends.py           # CLI ve GitHub Actions giriş noktası
+├── collectors/               # Veri Toplayıcılar (Abstract Base Class + Connection Pooling)
+│   ├── base.py               # Resilient HTTP Session, exponential backoff retries, timeouts
+│   ├── hackernews.py         # Algolia API üzerinden 50 aday toplayıcı
+│   └── arxiv.py              # Güvenli HTTPS üzerinden ArXiv Atom XML toplayıcı
+├── processors/               # Veri İşleme & Rafine Etme
+│   ├── content_filter.py     # Akıllı negatif filtre (ölüm/ilan eleme) ve teknoloji önceliklendirme
+│   └── text_summarizer.py    # Anlam bütünlüğünü koruyan akıllı cümle çıkarıcı
+└── generators/               # Çıktı Üreticileri
+    ├── report_generator.py   # reports/YYYY-MM-DD.md üretim motoru
+    └── readme_updater.py     # README.md dinamik blok senkronizasyonu
+```
 
 ---
 
-## 🚀 Yerel Kurulum ve Çalıştırma
+## 🛡️ Güvenilirlik ve Hata Toleransı İlkeleri
 
-Projeyi yerel makinenizde test etmek isterseniz:
+Sistem, harici API arızalarını ve veri kirliliğini engellemek için kurumsal standartlarda geliştirilmiştir:
+
+1. **Uçtan Uca HTTPS Güvenliği:**
+   - ArXiv API bağlantısı zorunlu olarak **`https://export.arxiv.org`** protokolüyle şifreli çalışır.
+2. **Kritik Veri Doğrulaması:**
+   - API başarısızlıklarının gizlenmesi engellenmiştir. Eğer veri akışı tamamen kesilirse pipeline sessizce başarılı sayılmaz (`exit 1` ile GitHub Actions uyarılır), boş veya bozuk raporların commitlenmesi önlenir.
+3. **Şeffaf Tarih ve Fallback Yönetimi:**
+   - ArXiv hafta sonu yeni makale yayınlamadığında, geçmiş makaleler asla "günün makalesi" gibi yanıltıcı gösterilmez. Gerçek yayınlanma tarihleri (`atom:published`) ve `(Referans Arşiv)` etiketi açıkça belirtilir.
+4. **Dayanıklı HTTP İstekleri:**
+   - `urllib3.util.retry.Retry` stratejisi ile HTTP 429, 500, 502, 503, 504 durumlarında exponential backoff ile 3 defa otomatik yeniden denenir.
+   - Ayrı bağlantı (`5s`) ve okuma (`25s`) zaman aşımları uygulanır.
+5. **Akıllı İçerik Süzgeci:**
+   - Vefat haberleri, magazin, iş ilanları ve saf tıp yazıları filtrelenirken, sağlık alanındaki gerçek AI çalışmaları ("CNN outperforms LLMs for diagnosis") bağlam analizcisi ile korunur.
+
+---
+
+## 🧪 Test Süreci
+
+Proje, **%100 kapsamlı birim ve entegrasyon test paketine** (`pytest`) sahiptir:
 
 ```bash
-# 1. Projeyi klonlayın
+# Geliştirme bağımlılıklarını kurun
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+
+# Tüm testleri çalıştırın
+pytest -v
+```
+
+CI/CD hattında (`daily_radar.yml`), testler başarıyla geçmeden veri hattı çalıştırılmaz.
+
+---
+
+## 🚀 Yerel Çalıştırma
+
+```bash
+# 1. Depoyu klonlayın
 git clone https://github.com/themuhammedguler/ai-tech-radar.git
 cd ai-tech-radar
 
-# 2. Bağımlılıkları yükleyin
-pip install -r requirements.txt
-
-# 3. Veri hattını çalıştırın
+# 2. Pipeline'ı çalıştırın
 python src/fetch_trends.py
 ```
-
-Rapor oluşturulduktan sonra `reports/` dizinini ve `README.md` dosyasını inceleyebilirsiniz.
 
 ---
 
