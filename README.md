@@ -13,38 +13,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-08`
+### ⚡ Son Güncelleme: `2026-11-10`
 
 > 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-08.md`)](reports/2026-11-08.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-10.md`)](reports/2026-11-10.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) | ⭐ 441 | 💬 303 | [Tartışma](https://news.ycombinator.com/item?id=50407882) |
-| `🤖 AI / ML` | [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) | ⭐ 469 | 💬 282 | [Tartışma](https://news.ycombinator.com/item?id=50406563) |
-| `🤖 AI / ML` | [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) | ⭐ 391 | 💬 240 | [Tartışma](https://news.ycombinator.com/item?id=50410107) |
-| `🤖 AI / ML` | [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) | ⭐ 15 | 💬 7 | [Tartışma](https://news.ycombinator.com/item?id=50411961) |
-| `⚙️ Sistem & Altyapı` | [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) | ⭐ 244 | 💬 94 | [Tartışma](https://news.ycombinator.com/item?id=50404599) |
+| `🤖 AI / ML` | [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) | ⭐ 713 | 💬 879 | [Tartışma](https://news.ycombinator.com/item?id=50429068) |
+| `💻 Yazılım & Geliştirme` | [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) | ⭐ 669 | 💬 339 | [Tartışma](https://news.ycombinator.com/item?id=50431058) |
+| `🤖 AI / ML` | [Fireworks AI security breach impacts Notion and their customers](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor) | ⭐ 92 | 💬 29 | [Tartışma](https://news.ycombinator.com/item?id=50437106) |
+| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 209 | 💬 84 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
+| `🛡️ Güvenlik` | [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/) | ⭐ 81 | 💬 61 | [Tartışma](https://news.ycombinator.com/item?id=50437790) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)** `cs.LG` *(Yazarlar: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen vb.)*
-  *User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability.*
+- 📄 **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)** `cs.LG` *(Yazarlar: Zhaoying Pan, Yipei Wang, Shenyu Lu vb.)*
+  *Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary.*
 
-- 📄 **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)** `cs.AI` *(Yazarlar: Qile Jiang, George Em Karniadakis)*
-  *LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity.*
+- 📄 **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)** `cs.LG` *(Yazarlar: Majdi Hassan, Marta Skreta, Dominique Beaini vb.)*
+  *Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance.*
 
-- 📄 **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)** `cs.AI` *(Yazarlar: Taiming Lu, Sachin Konan, Zhuang Liu)*
-  *AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment.*
+- 📄 **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)** `cs.LG` *(Yazarlar: Sreejeet Maity, Aritra Mitra)*
+  *Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel.*
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 - [📅 2026-11-08 Raporu](reports/2026-11-08.md)
 - [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
 - [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 - [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 - [📅 2026-11-03 Raporu](reports/2026-11-03.md)
-- [📅 2026-11-02 Raporu](reports/2026-11-02.md)
 <!-- LATEST_REPORT_END -->
 
 ---
