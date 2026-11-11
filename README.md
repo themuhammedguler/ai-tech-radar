@@ -15,38 +15,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-10`
+### ⚡ Son Güncelleme: `2026-11-11`
 
 > 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-10.md`)](reports/2026-11-10.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-11.md`)](reports/2026-11-11.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 485 | 💬 158 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
-| `🤖 AI / ML` | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | ⭐ 48 | 💬 11 | [Tartışma](https://news.ycombinator.com/item?id=50443812) |
-| `🛡️ Güvenlik` | [Queens Public Library under ransomware attack](https://connect.queenslibrary.org/) | ⭐ 165 | 💬 104 | [Tartışma](https://news.ycombinator.com/item?id=50437790) |
-| `🤖 AI / ML` | [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) | ⭐ 188 | 💬 244 | [Tartışma](https://news.ycombinator.com/item?id=50438318) |
-| `💻 Yazılım & Geliştirme` | [What's new in the .NET 11 runtime](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime) | ⭐ 160 | 💬 107 | [Tartışma](https://news.ycombinator.com/item?id=50439284) |
+| `🤖 AI / ML` | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | ⭐ 395 | 💬 128 | [Tartışma](https://news.ycombinator.com/item?id=50443812) |
+| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 655 | 💬 187 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
+| `🤖 AI / ML` | [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) | ⭐ 336 | 💬 327 | [Tartışma](https://news.ycombinator.com/item?id=50446520) |
+| `🤖 AI / ML` | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) | ⭐ 424 | 💬 203 | [Tartışma](https://news.ycombinator.com/item?id=50447074) |
+| `🛡️ Güvenlik` | [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | ⭐ 210 | 💬 43 | [Tartışma](https://news.ycombinator.com/item?id=50448921) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Guiding Data Allocation for Robust Subpopulation Generalization](https://arxiv.org/abs/2611.12884v1)** `cs.LG` *(Yazarlar: Zhaoying Pan, Yipei Wang, Shenyu Lu vb.)*
-  *📅 Yayın: 2026-11-09* — Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary.
+- 📄 **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](https://arxiv.org/abs/2611.14519v1)** `cs.CV` *(Yazarlar: Emre Kutlusan, Yongmin Li)*
+  *📅 Yayın: 2026-11-10* — Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task.
 
-- 📄 **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](https://arxiv.org/abs/2611.12880v1)** `cs.LG` *(Yazarlar: Majdi Hassan, Marta Skreta, Dominique Beaini vb.)*
-  *📅 Yayın: 2026-11-09* — Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance.
+- 📄 **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](https://arxiv.org/abs/2611.14518v1)** `cs.CV` *(Yazarlar: Sheethal Bhat, Bogdan Georgescu, Awais Mansoor vb.)*
+  *📅 Yayın: 2026-11-10* — DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets.
 
-- 📄 **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](https://arxiv.org/abs/2611.12878v1)** `cs.LG` *(Yazarlar: Sreejeet Maity, Aritra Mitra)*
-  *📅 Yayın: 2026-11-09* — Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel.
+- 📄 **[TorchCurves: Differentiable Parametric Curves](https://arxiv.org/abs/2611.14516v1)** `cs.LG` *(Yazarlar: Alex Shtoff)*
+  *📅 Yayın: 2026-11-10* — We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 - [📅 2026-11-08 Raporu](reports/2026-11-08.md)
 - [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
 - [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 - [📅 2026-11-04 Raporu](reports/2026-11-04.md)
-- [📅 2026-11-03 Raporu](reports/2026-11-03.md)
 <!-- LATEST_REPORT_END -->
 
 ---
