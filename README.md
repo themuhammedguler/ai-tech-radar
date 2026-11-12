@@ -15,19 +15,19 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-11`
+### ⚡ Son Güncelleme: `2026-11-12`
 
 > 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-11.md`)](reports/2026-11-11.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-12.md`)](reports/2026-11-12.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) | ⭐ 395 | 💬 128 | [Tartışma](https://news.ycombinator.com/item?id=50443812) |
-| `💻 Yazılım & Geliştirme` | [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/) | ⭐ 655 | 💬 187 | [Tartışma](https://news.ycombinator.com/item?id=50439193) |
-| `🤖 AI / ML` | [Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) | ⭐ 336 | 💬 327 | [Tartışma](https://news.ycombinator.com/item?id=50446520) |
-| `🤖 AI / ML` | [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) | ⭐ 424 | 💬 203 | [Tartışma](https://news.ycombinator.com/item?id=50447074) |
-| `🛡️ Güvenlik` | [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) | ⭐ 210 | 💬 43 | [Tartışma](https://news.ycombinator.com/item?id=50448921) |
+| `🤖 AI / ML` | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) | ⭐ 1170 | 💬 1562 | [Tartışma](https://news.ycombinator.com/item?id=50459703) |
+| `💻 Yazılım & Geliştirme` | [AWS emulator](https://github.com/aws/aws-emulator) | ⭐ 904 | 💬 250 | [Tartışma](https://news.ycombinator.com/item?id=50456631) |
+| `🤖 AI / ML` | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) | ⭐ 607 | 💬 631 | [Tartışma](https://news.ycombinator.com/item?id=50458900) |
+| `🤖 AI / ML` | [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) | ⭐ 497 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50456791) |
+| `🤖 AI / ML` | [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) | ⭐ 509 | 💬 367 | [Tartışma](https://news.ycombinator.com/item?id=50467087) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
 - 📄 **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](https://arxiv.org/abs/2611.14519v1)** `cs.CV` *(Yazarlar: Emre Kutlusan, Yongmin Li)*
@@ -40,13 +40,13 @@
   *📅 Yayın: 2026-11-10* — We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 - [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 - [📅 2026-11-08 Raporu](reports/2026-11-08.md)
 - [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
 - [📅 2026-11-05 Raporu](reports/2026-11-05.md)
-- [📅 2026-11-04 Raporu](reports/2026-11-04.md)
 <!-- LATEST_REPORT_END -->
 
 ---
