@@ -23,26 +23,25 @@
 > 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-13.md`)](reports/2026-11-13.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Teknoloji sektörü ve pazarındaki güncel gelişmeler geliştirici platformlarında yoğun tartışma konusu oldu.
-- 🛠️ **Yazılım & Açık Kaynak:** Açık kaynak dünyasında modern yazılım araçları ve yeni nesil sistem kütüphaneleri öne çıktı.
-- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka literatüründe ve Hugging Face topluluğunda otonom ajanlar ile model optimizasyonu odak noktası oldu.
-  *(AI özeti için GEMINI_API_KEY bekleniyor veya kota aşıldı)*
+- 🌐 **Sektör & Büyük Olaylar:** Yapay zeka ekosisteminde Anthropic'in olası halka arzı ve Google'ın Gemini 4 Hydrogen hamleleri sektörel rekabeti kızıştırırken, Çinli yapay zeka modellerinde ihracat kısıtlı GPU izlerine rastlanması jeopolitik ve tedarik zinciri dinamiklerini yeniden gündeme taşıdı.
+- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici dünyasında açık kaynaklı yazılım mühendisliği ajanları ve tersine mühendislik araçları (storytold/craft-anything, AgentRun) öne çıkarken, donanım kısıtlamalarına karşı eski cihazlarda LLM çalıştırma çabaları ve topluluk odaklı alternatif çözümler hız kazandı.
+- 🔬 **Yapay Zeka & Araştırma:** Akademik alanda özellikle pekiştirmeli öğrenme ile LLM'lerde kendi kendine öğrenmenin teşvik edilmesi, matematiksel kanıt denetiminin ölçeklenmesi ve çok modlu vizyon kodlamasının ayrıştırılması odak noktası oldu.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 900 | 💬 852 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
-| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 617 | 💬 231 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
-| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 514 | 💬 325 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
-| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 443 | 💬 332 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
-| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 477 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
+| `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 901 | 💬 852 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
+| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 617 | 💬 232 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
+| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 515 | 💬 326 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
+| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 452 | 💬 335 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
+| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 478 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,496 | Craft Anything: understand how any software works, and craft your own. |
-| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,862 | Towards a More Autonomous Agent System |
-| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,011 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
+| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,503 | Craft Anything: understand how any software works, and craft your own. |
+| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,868 | Towards a More Autonomous Agent System |
+| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,014 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
 - 🤗 **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394)** `HuggingFace` *(🔺 42 oy · Youqing Fang, Zhouqi Hua vb.)*
