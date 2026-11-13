@@ -32,17 +32,17 @@
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
 | `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 899 | 💬 852 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
-| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 610 | 💬 231 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
-| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 511 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
-| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 428 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
-| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 470 | 💬 173 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
+| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 615 | 💬 231 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
+| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 512 | 💬 325 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
+| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 433 | 💬 328 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
+| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 474 | 💬 174 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,475 | Craft Anything: understand how any software works, and craft your own. |
-| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,855 | Towards a More Autonomous Agent System |
-| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,001 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
+| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,490 | Craft Anything: understand how any software works, and craft your own. |
+| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,861 | Towards a More Autonomous Agent System |
+| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,007 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
 - 🤗 **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394)** `HuggingFace` *(🔺 42 oy · Youqing Fang, Zhouqi Hua vb.)*
