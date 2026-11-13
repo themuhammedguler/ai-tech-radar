@@ -23,32 +23,32 @@
 > 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-13.md`)](reports/2026-11-13.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Yapay zeka ekosisteminde Anthropic'in olası halka arzı ve Google'ın Gemini 4 Hydrogen hamleleri sektörel rekabeti kızıştırırken, Çinli yapay zeka modellerinde ihracat kısıtlı GPU izlerine rastlanması jeopolitik ve tedarik zinciri dinamiklerini yeniden gündeme taşıdı.
-- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici dünyasında açık kaynaklı yazılım mühendisliği ajanları ve tersine mühendislik araçları (storytold/craft-anything, AgentRun) öne çıkarken, donanım kısıtlamalarına karşı eski cihazlarda LLM çalıştırma çabaları ve topluluk odaklı alternatif çözümler hız kazandı.
-- 🔬 **Yapay Zeka & Araştırma:** Akademik alanda özellikle pekiştirmeli öğrenme ile LLM'lerde kendi kendine öğrenmenin teşvik edilmesi, matematiksel kanıt denetiminin ölçeklenmesi ve çok modlu vizyon kodlamasının ayrıştırılması odak noktası oldu.
+- 🌐 **Sektör & Büyük Olaylar:** Anthropic'in halka arz hazırlıkları ve Claude ekosistemindeki altyapı kesintileri sektörün büyüme hızını gösterirken, Nvidia cephesinde eski CEO Jensen Huang hakkında çıkan şirket içi ve yönetsel iddialar teknoloji dünyasında büyük yankı uyandırdı. Öte yandan Google'ın Gemini 4 Hydrogen duyuruları yapay zeka pazarındaki rekabetin kızıştığını açıkça ortaya koyuyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde Rust 1.100 sürümü ve yazılımların çalışma mantığını çözmeyi hedefleyen "craft-anything" gibi açık kaynaklı araçlar öne çıkarken, abonelik dayatan donanımlara karşı geliştirilen alternatif uygulamalar ve AgentRun gibi otonom ajan altyapıları dikkat çekiyor. Ayrıca eski ve küçük cihazlarda LLM çalıştırma çabaları, yapay zekayı uç cihazlara (edge) taşıma trendini güçlendiriyor.
+- 🔬 **Yapay Zeka & Araştırma:** Akademik araştırmalar ve model geliştirmelerde; sistem bir modellerinin güvenilirliğini ölçen SO-Arena kıyaslamaları, multimodal vizyon kodlama optimizasyonları ve pekiştirmeli öğrenme tabanlı finansal yaklaşımlar ön plana çıkıyor. Bunun yanı sıra, otonom ajanların etiketlenmemiş verilerden öğrenme kapasiteleri ile derin sıkıştırılmış otoregresif üretim teknikleri günün en kritik bilimsel odak noktalarını oluşturuyor.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 901 | 💬 852 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
-| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 617 | 💬 232 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
-| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 515 | 💬 326 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
-| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 452 | 💬 335 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
-| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 478 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
+| `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 965 | 💬 878 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
+| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 755 | 💬 280 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
+| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 698 | 💬 542 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
+| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 546 | 💬 340 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
+| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 598 | 💬 203 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,503 | Craft Anything: understand how any software works, and craft your own. |
-| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,868 | Towards a More Autonomous Agent System |
-| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,014 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
+| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 31,003 | Craft Anything: understand how any software works, and craft your own. |
+| [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,968 | Towards a More Autonomous Agent System |
+| [**zortos293/Lichii**](https://github.com/zortos293/Lichii) | `C++` | ⭐ 8,879 | VERY experimental Nintendo Switch 2 emulator |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394)** `HuggingFace` *(🔺 42 oy · Youqing Fang, Zhouqi Hua vb.)*
-  Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources.
+- 🤗 **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777)** `HuggingFace` *(🔺 58 oy · Lichen Li, Ziping Dong vb.)*
+  System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
 
-- 🤗 **[One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://huggingface.co/papers/2611.13001)** `HuggingFace` *(🔺 40 oy · Yuanrui Wang, Kaifang Li vb.)*
-  Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well.
+- 🤗 **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394)** `HuggingFace` *(🔺 43 oy · Youqing Fang, Zhouqi Hua vb.)*
+  Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources.
 
 - 🤖 **[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)** `cs.CV` *(Yazarlar: Ellis Brown, Chris Hoang, Shengyi Qian vb.)*
   *📅 Yayın: 2026-11-12* — How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely.
