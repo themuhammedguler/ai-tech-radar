@@ -1,8 +1,7 @@
 """
-AI Summarizer processor (v4.1 Adaptive).
-Uses Google Gemini REST API with dynamic model discovery to synthesize the day's 25 collected trends
-into a crisp 3-bullet Turkish Executive Briefing (TL;DR).
-Implements auto-discovery of available Gemini models to guarantee 100% resilience against deprecations.
+AI Summarizer processor (v4.2 Auto-Healing).
+Uses Google Gemini REST API with dynamic model discovery and automatic deprecation healing
+to synthesize the day's 25 collected trends into a crisp 3-bullet Turkish Executive Briefing (TL;DR).
 """
 
 import json
@@ -24,18 +23,18 @@ from src.models import (
     TrendItem
 )
 
-# Preferred models in priority order
+# Preferred models in priority order (Gemini 3.8 Flash generation)
 PREFERRED_MODELS = [
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
-    "gemini-1.5-flash",
+    "gemini-3.8-flash",
+    "gemini-3.8-flash-lite",
+    "gemini-3.0-flash",
     "gemini-2.5-flash",
-    "gemini-2.0-pro"
+    "gemini-2.0-flash"
 ]
 
 
 class AiSummarizer:
-    """Generates structured daily executive briefings using Google Gemini API with auto-model discovery."""
+    """Generates structured daily executive briefings using Google Gemini API with auto-healing."""
 
     def __init__(
         self,
@@ -76,12 +75,11 @@ class AiSummarizer:
                     logger.info(f"Using first available Gemini model: {supported[0]}")
                     return supported[0]
             else:
-                logger.warning(f"Could not discover Gemini models (status {resp.status_code}): {resp.text[:200]}")
+                logger.warning(f"Could not discover Gemini models (status {resp.status_code})")
         except Exception as e:
             logger.warning(f"Error querying Gemini models list: {e}")
 
-        # Default fallback
-        return "gemini-2.0-flash"
+        return "gemini-3.8-flash"
 
     def _build_prompt(
         self,
@@ -134,13 +132,13 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
         )
 
     def _call_gemini_api(self, prompt: str) -> Optional[str]:
-        """Sends prompt to Gemini REST API and returns raw text response."""
+        """Sends prompt to Gemini REST API and returns raw text response with auto-healing."""
         if not self.api_key:
             logger.info("GEMINI_API_KEY not found in environment. Using graceful fallback.")
             return None
 
         if not self._discovered_model:
-            self._discovered_model = self._discover_active_model() or "gemini-2.0-flash"
+            self._discovered_model = self._discover_active_model() or "gemini-3.8-flash"
 
         payload = {
             "contents": [
@@ -154,10 +152,12 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
             }
         }
 
-        # Try discovered model, then fallback through preferred list
         candidate_models = [self._discovered_model] + [m for m in PREFERRED_MODELS if m != self._discovered_model]
 
-        for model_name in candidate_models:
+        i = 0
+        while i < len(candidate_models):
+            model_name = candidate_models[i]
+            i += 1
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={self.api_key}"
             try:
                 logger.info(f"Generating AI Executive Briefing via Gemini API ({model_name})...")
@@ -171,7 +171,14 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
                             self._discovered_model = model_name
                             return parts[0].get("text", "")
                 else:
-                    logger.warning(f"Gemini API ({model_name}) returned status {resp.status_code}: {resp.text[:200]}")
+                    logger.warning(f"Gemini API ({model_name}) returned status {resp.status_code}")
+                    # Auto-heal: If Google returns a deprecation message suggesting a specific model, try it immediately!
+                    m = re.search(r"Please update your code to use models/([a-zA-Z0-9\.\-]+)", resp.text)
+                    if m:
+                        suggested_model = m.group(1)
+                        if suggested_model not in candidate_models:
+                            logger.info(f"Auto-healing: dynamically injecting Google's suggested model '{suggested_model}'")
+                            candidate_models.insert(i, suggested_model)
             except Exception as e:
                 logger.warning(f"Gemini API call failed on {model_name}: {e}")
 
