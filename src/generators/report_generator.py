@@ -27,7 +27,7 @@ class ReportGenerator:
     ) -> str:
         """Constructs markdown content string for a daily report."""
         lines = [
-            f"# 📡 AI & Tech Daily Radar — {date_str}",
+            f"# AI & Tech Daily Radar — {date_str}",
             "",
             f"> **Tarih:** {date_str} | **Kapsam:** Yüksek Nitelikli Teknoloji & AI Trendleri",
             "",

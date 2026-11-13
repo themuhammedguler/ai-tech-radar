@@ -45,7 +45,7 @@ def test_report_generator_markdown_output(tmp_path, mock_trend_item, mock_arxiv_
         arxiv_status=SourceStatus.SUCCESS
     )
 
-    assert "# 📡 AI & Tech Daily Radar — 2026-11-10" in md
+    assert "# AI & Tech Daily Radar — 2026-11-10" in md
     assert "Rust UI Framework" in md
     assert "Agentic Reasoning" in md
     assert "2026-11-10" in md

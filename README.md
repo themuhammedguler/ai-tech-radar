@@ -1,4 +1,4 @@
-# 📡 AI & Tech Daily Radar
+<h1 align="center">AI & Tech Daily Radar</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white" alt="Python 3.11+">
@@ -9,44 +9,46 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
 </p>
 
-> **AI & Tech Daily Radar**, her gün GitHub Actions üzerinde otonom çalışan, kurumsal seviyede hata toleransına, modüler mimariye ve otomatik test güvencesine sahip bir **Yapay Zeka ve Teknoloji Veri Hattıdır (ETL Pipeline)**.
-> HackerNews ve ArXiv (`cs.AI`, `cs.LG`, `cs.CL`) üzerindeki sinyalleri yakalar, gürültüyü akıllı NLP kurallarıyla eler ve şeffaf biçimde raporlar.
+<p align="center">
+  <strong>Otonom ETL Veri Hattı &bull; Günlük Teknoloji, Yazılım ve Yapay Zeka Trend Radarı</strong><br>
+  <em>HackerNews ve ArXiv (cs.AI, cs.LG, cs.CL) üzerindeki sinyalleri yakalar, gürültüyü akıllı NLP kurallarıyla eler ve şeffaf biçimde raporlar.</em>
+</p>
 
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-12`
+### ⚡ Son Güncelleme: `2026-11-13`
 
 > 📊 **Bugünün Özeti:** 10 yüksek nitelikli teknoloji trendi ve 5 ArXiv AI/ML akademik makalesi tarandı.  
-> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-12.md`)](reports/2026-11-12.md)
+> 📑 **Tam Rapor:** [Günün Raporunu Görüntüle (`reports/2026-11-13.md`)](reports/2026-11-13.md)
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) | ⭐ 1170 | 💬 1562 | [Tartışma](https://news.ycombinator.com/item?id=50459703) |
-| `💻 Yazılım & Geliştirme` | [AWS emulator](https://github.com/aws/aws-emulator) | ⭐ 904 | 💬 250 | [Tartışma](https://news.ycombinator.com/item?id=50456631) |
-| `🤖 AI / ML` | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) | ⭐ 607 | 💬 631 | [Tartışma](https://news.ycombinator.com/item?id=50458900) |
-| `🤖 AI / ML` | [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) | ⭐ 497 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50456791) |
-| `🤖 AI / ML` | [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) | ⭐ 509 | 💬 367 | [Tartışma](https://news.ycombinator.com/item?id=50467087) |
+| `🤖 AI / ML` | [Anthropic IPO](https://ipo.anthropic.com/us/) | ⭐ 897 | 💬 851 | [Tartışma](https://news.ycombinator.com/item?id=50465829) |
+| `💻 Yazılım & Geliştirme` | [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) | ⭐ 602 | 💬 229 | [Tartışma](https://news.ycombinator.com/item?id=50472038) |
+| `🤖 AI / ML` | [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | ⭐ 509 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50471431) |
+| `💻 Yazılım & Geliştirme` | [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) | ⭐ 463 | 💬 171 | [Tartışma](https://news.ycombinator.com/item?id=50470488) |
+| `🤖 AI / ML` | [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) | ⭐ 404 | 💬 306 | [Tartışma](https://news.ycombinator.com/item?id=50477231) |
 
 #### 🤖 ArXiv AI/ML Öne Çıkan Araştırmalar
-- 📄 **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](https://arxiv.org/abs/2611.14519v1)** `cs.CV` *(Yazarlar: Emre Kutlusan, Yongmin Li)*
-  *📅 Yayın: 2026-11-10* — Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task.
+- 📄 **[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)** `cs.CV` *(Yazarlar: Ellis Brown, Chris Hoang, Shengyi Qian vb.)*
+  *📅 Yayın: 2026-11-12* — How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely.
 
-- 📄 **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](https://arxiv.org/abs/2611.14518v1)** `cs.CV` *(Yazarlar: Sheethal Bhat, Bogdan Georgescu, Awais Mansoor vb.)*
-  *📅 Yayın: 2026-11-10* — DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets.
+- 📄 **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](https://arxiv.org/abs/2611.17332v1)** `cs.CL` *(Yazarlar: Jie Wang, Tong Zhu, JiaHao Kuang vb.)*
+  *📅 Yayın: 2026-11-12* — Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why.
 
-- 📄 **[TorchCurves: Differentiable Parametric Curves](https://arxiv.org/abs/2611.14516v1)** `cs.LG` *(Yazarlar: Alex Shtoff)*
-  *📅 Yayın: 2026-11-10* — We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients.
+- 📄 **[Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](https://arxiv.org/abs/2611.17329v1)** `cs.LG` *(Yazarlar: Zeynep Yıldız, Satchit Chatterji, Ercan Atam vb.)*
+  *📅 Yayın: 2026-11-12* — Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-13 Raporu](reports/2026-11-13.md)
 - [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 - [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 - [📅 2026-11-08 Raporu](reports/2026-11-08.md)
 - [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 - [📅 2026-11-06 Raporu](reports/2026-11-06.md)
-- [📅 2026-11-05 Raporu](reports/2026-11-05.md)
 <!-- LATEST_REPORT_END -->
 
 ---
