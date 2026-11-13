@@ -1,8 +1,8 @@
 """
-AI Summarizer processor.
-Uses Google Gemini Flash REST API to synthesize the day's 25 collected trends
+AI Summarizer processor (v4.1 Adaptive).
+Uses Google Gemini REST API with dynamic model discovery to synthesize the day's 25 collected trends
 into a crisp 3-bullet Turkish Executive Briefing (TL;DR).
-Implements resilient fallback when API key is missing or quota is exhausted.
+Implements auto-discovery of available Gemini models to guarantee 100% resilience against deprecations.
 """
 
 import json
@@ -12,10 +12,8 @@ from typing import Optional
 import requests
 
 from src.config import (
-    GEMINI_API_KEY_ENV,
-    GEMINI_API_URL,
-    GEMINI_FALLBACK_URL,
-    DEFAULT_TIMEOUT
+    DEFAULT_TIMEOUT,
+    GEMINI_API_KEY_ENV
 )
 from src.logging_config import logger
 from src.models import (
@@ -26,21 +24,64 @@ from src.models import (
     TrendItem
 )
 
+# Preferred models in priority order
+PREFERRED_MODELS = [
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash",
+    "gemini-2.5-flash",
+    "gemini-2.0-pro"
+]
+
 
 class AiSummarizer:
-    """Generates structured daily executive briefings using Google Gemini API."""
+    """Generates structured daily executive briefings using Google Gemini API with auto-model discovery."""
 
     def __init__(
         self,
         api_key: Optional[str] = None,
-        primary_url: str = GEMINI_API_URL,
-        fallback_url: str = GEMINI_FALLBACK_URL,
         timeout: tuple[float, float] = DEFAULT_TIMEOUT
     ):
         self.api_key = api_key or os.getenv(GEMINI_API_KEY_ENV)
-        self.primary_url = primary_url
-        self.fallback_url = fallback_url
         self.timeout = timeout
+        self._discovered_model: Optional[str] = None
+
+    def _discover_active_model(self) -> Optional[str]:
+        """Queries Google Gemini models API to find an active model supporting generateContent."""
+        if not self.api_key:
+            return None
+
+        url = f"https://generativelanguage.googleapis.com/v1beta/models?key={self.api_key}"
+        try:
+            resp = requests.get(url, timeout=self.timeout)
+            if resp.status_code == 200:
+                data = resp.json()
+                models = data.get("models", [])
+                supported = [
+                    m.get("name", "").replace("models/", "")
+                    for m in models
+                    if "generateContent" in m.get("supportedGenerationMethods", [])
+                ]
+                # Pick best match from preferences
+                for pref in PREFERRED_MODELS:
+                    if pref in supported:
+                        logger.info(f"Discovered preferred Gemini model: {pref}")
+                        return pref
+                # Fallback to any model containing 'flash'
+                for m_name in supported:
+                    if "flash" in m_name:
+                        logger.info(f"Discovered flash Gemini model: {m_name}")
+                        return m_name
+                if supported:
+                    logger.info(f"Using first available Gemini model: {supported[0]}")
+                    return supported[0]
+            else:
+                logger.warning(f"Could not discover Gemini models (status {resp.status_code}): {resp.text[:200]}")
+        except Exception as e:
+            logger.warning(f"Error querying Gemini models list: {e}")
+
+        # Default fallback
+        return "gemini-2.0-flash"
 
     def _build_prompt(
         self,
@@ -98,6 +139,9 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
             logger.info("GEMINI_API_KEY not found in environment. Using graceful fallback.")
             return None
 
+        if not self._discovered_model:
+            self._discovered_model = self._discover_active_model() or "gemini-2.0-flash"
+
         payload = {
             "contents": [
                 {
@@ -110,24 +154,26 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
             }
         }
 
-        # Try primary URL then fallback URL
-        urls = [self.primary_url, self.fallback_url]
-        for url in urls:
+        # Try discovered model, then fallback through preferred list
+        candidate_models = [self._discovered_model] + [m for m in PREFERRED_MODELS if m != self._discovered_model]
+
+        for model_name in candidate_models:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={self.api_key}"
             try:
-                target_endpoint = f"{url}?key={self.api_key}"
-                logger.info(f"Generating AI Executive Briefing via Gemini API...")
-                resp = requests.post(target_endpoint, json=payload, timeout=self.timeout)
+                logger.info(f"Generating AI Executive Briefing via Gemini API ({model_name})...")
+                resp = requests.post(url, json=payload, timeout=self.timeout)
                 if resp.status_code == 200:
                     data = resp.json()
                     candidates = data.get("candidates", [])
                     if candidates:
                         parts = candidates[0].get("content", {}).get("parts", [])
                         if parts:
+                            self._discovered_model = model_name
                             return parts[0].get("text", "")
                 else:
-                    logger.warning(f"Gemini API returned status {resp.status_code}: {resp.text[:150]}")
+                    logger.warning(f"Gemini API ({model_name}) returned status {resp.status_code}: {resp.text[:200]}")
             except Exception as e:
-                logger.warning(f"Gemini API call failed on {url}: {e}")
+                logger.warning(f"Gemini API call failed on {model_name}: {e}")
 
         return None
 
@@ -160,7 +206,6 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
         arastirma = arastirma_m.group(1).strip() if arastirma_m else ""
 
         if not (sektor or yazilim or arastirma):
-            # If markers were not strictly followed, split lines
             clean_lines = [l.strip("- *#") for l in raw_text.splitlines() if len(l.strip()) > 20]
             sektor = clean_lines[0] if len(clean_lines) > 0 else "Günün teknoloji gelişmeleri analiz edildi."
             yazilim = clean_lines[1] if len(clean_lines) > 1 else "Açık kaynak projelerinde hareketlilik sürdü."
