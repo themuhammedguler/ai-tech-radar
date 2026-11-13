@@ -15,6 +15,7 @@ README_PATH = BASE_DIR / "README.md"
 CONNECT_TIMEOUT = 5.0    # Seconds to establish connection
 READ_TIMEOUT = 25.0      # Seconds to wait for server response
 DEFAULT_TIMEOUT = (CONNECT_TIMEOUT, READ_TIMEOUT)
+GEMINI_TIMEOUT = (10.0, 75.0)  # Dedicated timeout for LLM synthesis (prevents read timeouts during peak load)
 MAX_RETRIES = 3
 BACKOFF_FACTOR = 1.5
 USER_AGENT = "AITechRadar/4.0 (+https://github.com/themuhammedguler/ai-tech-radar)"

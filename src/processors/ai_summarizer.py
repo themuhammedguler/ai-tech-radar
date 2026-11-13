@@ -12,7 +12,8 @@ import requests
 
 from src.config import (
     DEFAULT_TIMEOUT,
-    GEMINI_API_KEY_ENV
+    GEMINI_API_KEY_ENV,
+    GEMINI_TIMEOUT
 )
 from src.logging_config import logger
 from src.models import (
@@ -39,20 +40,21 @@ class AiSummarizer:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        timeout: tuple[float, float] = DEFAULT_TIMEOUT
+        timeout: tuple[float, float] = GEMINI_TIMEOUT
     ):
         self.api_key = api_key or os.getenv(GEMINI_API_KEY_ENV)
         self.timeout = timeout
         self._discovered_model: Optional[str] = None
+        self._candidate_models: list[str] = []
 
     def _discover_active_model(self) -> Optional[str]:
-        """Queries Google Gemini models API to find an active model supporting generateContent."""
+        """Queries Google Gemini models API to find active models supporting generateContent."""
         if not self.api_key:
             return None
 
         url = f"https://generativelanguage.googleapis.com/v1beta/models?key={self.api_key}"
         try:
-            resp = requests.get(url, timeout=self.timeout)
+            resp = requests.get(url, timeout=(5.0, 15.0))
             if resp.status_code == 200:
                 data = resp.json()
                 models = data.get("models", [])
@@ -61,24 +63,28 @@ class AiSummarizer:
                     for m in models
                     if "generateContent" in m.get("supportedGenerationMethods", [])
                 ]
-                # Pick best match from preferences
-                for pref in PREFERRED_MODELS:
-                    if pref in supported:
-                        logger.info(f"Discovered preferred Gemini model: {pref}")
-                        return pref
-                # Fallback to any model containing 'flash'
+                # Prioritize PREFERRED_MODELS that are actually present
+                ordered = [pref for pref in PREFERRED_MODELS if pref in supported]
+                # Then any remaining flash models
                 for m_name in supported:
-                    if "flash" in m_name:
-                        logger.info(f"Discovered flash Gemini model: {m_name}")
-                        return m_name
-                if supported:
-                    logger.info(f"Using first available Gemini model: {supported[0]}")
-                    return supported[0]
+                    if "flash" in m_name and m_name not in ordered:
+                        ordered.append(m_name)
+                # Then any remaining general models
+                for m_name in supported:
+                    if m_name not in ordered:
+                        ordered.append(m_name)
+
+                if ordered:
+                    self._candidate_models = ordered
+                    selected = ordered[0]
+                    logger.info(f"Discovered active Gemini models: {ordered[:3]} (selected: {selected})")
+                    return selected
             else:
                 logger.warning(f"Could not discover Gemini models (status {resp.status_code})")
         except Exception as e:
             logger.warning(f"Error querying Gemini models list: {e}")
 
+        self._candidate_models = list(PREFERRED_MODELS)
         return "gemini-3.8-flash"
 
     def _build_prompt(
@@ -90,33 +96,34 @@ class AiSummarizer:
     ) -> str:
         """Constructs a compact context prompt summarizing all 25 trends."""
         lines = [
-            "Aşağıda bugün teknoloji ve yapay zeka dünyasında öne çıkan 25 gelişme bulunmaktadır:\n",
-            "### HackerNews Trendleri:"
+            "Bugün teknoloji ve yapay zeka dünyasında öne çıkan gelişmeler:\n",
+            "### HackerNews:"
         ]
         for it in hn_items[:10]:
-            lines.append(f"- {it.title} (Kategori: {it.category}, Puan: {it.points})")
+            lines.append(f"- {it.title} ({it.category})")
 
-        lines.append("\n### GitHub Trending Açık Kaynak Repolar:")
+        lines.append("\n### GitHub Trending:")
         for gh in github_items[:5]:
-            lines.append(f"- {gh.name} ({gh.language}, ⭐{gh.stars}): {gh.description}")
+            desc = f": {gh.description[:90]}" if gh.description else ""
+            lines.append(f"- {gh.name} ({gh.language}){desc}")
 
         lines.append("\n### Hugging Face Popüler AI Makaleleri:")
         for hf in hf_items[:5]:
-            lines.append(f"- {hf.title} (Oy: {hf.upvotes}): {hf.summary[:150]}")
+            lines.append(f"- {hf.title}")
 
         lines.append("\n### ArXiv Araştırmaları:")
         for ax in arxiv_items[:5]:
-            lines.append(f"- {ax.title} ({ax.category}): {ax.summary[:150]}")
+            lines.append(f"- {ax.title}")
 
         lines.append("""
 GÖREV:
-Bu 25 veriyi bir teknoloji analisti gözüyle sentezle ve Türkçe olarak tam 3 tematik madde halinde günlük yönetici brifingi (Executive TL;DR) oluştur.
+Bu verileri bir teknoloji analisti gözüyle sentezle ve Türkçe olarak tam 3 tematik madde halinde günlük yönetici brifingi (Executive TL;DR) oluştur.
 Her madde 1-2 akıcı ve bilgilendirici cümleden oluşmalıdır.
 
 Format kesinlikle şu şekilde olmalıdır:
-SEKTOR: [Teknoloji dünyasındaki büyük olaylar, şirketler, güvenlik veya regülasyonlar hakkında sentez]
-YAZILIM: [Açık kaynak dünyası, geliştirici araçları, diller ve altyapı projeleri hakkında sentez]
-ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler hakkında sentez]
+SEKTOR: [Teknoloji sektörü, büyük şirketler, güvenlik veya regülasyonlar hakkında sentez]
+YAZILIM: [Açık kaynak projeleri, geliştirici araçları ve altyapı kütüphaneleri hakkında sentez]
+ARASTIRMA: [Yapay zeka modelleri ve araştırma makaleleri hakkında sentez]
 """)
         return "\n".join(lines)
 
@@ -148,11 +155,11 @@ ARASTIRMA: [Yapay zeka modelleri, araştırma makaleleri ve mimari yenilikler ha
             ],
             "generationConfig": {
                 "temperature": 0.2,
-                "maxOutputTokens": 600
+                "maxOutputTokens": 450
             }
         }
 
-        candidate_models = [self._discovered_model] + [m for m in PREFERRED_MODELS if m != self._discovered_model]
+        candidate_models = list(self._candidate_models or [self._discovered_model] or PREFERRED_MODELS)
 
         i = 0
         while i < len(candidate_models):

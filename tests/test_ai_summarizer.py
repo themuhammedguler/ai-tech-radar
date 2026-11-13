@@ -46,3 +46,21 @@ ARASTIRMA: Otonom ajanlar için sentetik veri sentezi ve difüzyon tabanlı robo
     assert "regülasyonları" in briefing.sector_events
     assert "Rust" in briefing.software_opensource
     assert "Otonom ajanlar" in briefing.ai_research
+
+
+def test_ai_summarizer_discover_active_model(monkeypatch):
+    summarizer = AiSummarizer(api_key="mock_key")
+    mock_resp = MagicMock()
+    mock_resp.status_code = 200
+    mock_resp.json.return_value = {
+        "models": [
+            {"name": "models/gemini-1.0-pro", "supportedGenerationMethods": ["generateContent"]},
+            {"name": "models/gemini-3.8-flash", "supportedGenerationMethods": ["generateContent"]},
+            {"name": "models/text-embedding-004", "supportedGenerationMethods": ["embedContent"]}
+        ]
+    }
+    monkeypatch.setattr("requests.get", lambda url, timeout: mock_resp)
+
+    discovered = summarizer._discover_active_model()
+    assert discovered == "gemini-3.8-flash"
+    assert "gemini-3.8-flash" in summarizer._candidate_models
