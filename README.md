@@ -40,9 +40,9 @@
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,492 | Craft Anything: understand how any software works, and craft your own. |
+| [**storytold/craft-anything**](https://github.com/storytold/craft-anything) | `Rust` | ⭐ 30,496 | Craft Anything: understand how any software works, and craft your own. |
 | [**deepseek-ai/dsh-superagent-prototype**](https://github.com/deepseek-ai/dsh-superagent-prototype) | `TypeScript` | ⭐ 22,862 | Towards a More Autonomous Agent System |
-| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,009 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
+| [**NotRexed/Hookshot**](https://github.com/NotRexed/Hookshot) | `C++` | ⭐ 9,011 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
 - 🤗 **[Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394)** `HuggingFace` *(🔺 42 oy · Youqing Fang, Zhouqi Hua vb.)*
