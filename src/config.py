@@ -1,8 +1,9 @@
 """
-Configuration module for AI & Tech Daily Radar.
-Centralizes paths, API endpoints, timeouts, heuristics, and category keywords.
+Configuration module for AI & Tech Daily Radar (v4.0).
+Centralizes paths, API endpoints, timeouts, heuristics, categories, and LLM configuration.
 """
 
+import os
 from pathlib import Path
 
 # Paths
@@ -16,7 +17,7 @@ READ_TIMEOUT = 25.0      # Seconds to wait for server response
 DEFAULT_TIMEOUT = (CONNECT_TIMEOUT, READ_TIMEOUT)
 MAX_RETRIES = 3
 BACKOFF_FACTOR = 1.5
-USER_AGENT = "AITechRadar/3.0 (+https://github.com/themuhammedguler/ai-tech-radar)"
+USER_AGENT = "AITechRadar/4.0 (+https://github.com/themuhammedguler/ai-tech-radar)"
 
 # HackerNews Settings
 HN_API_URL = "https://hn.algolia.com/api/v1/search"
@@ -24,11 +25,25 @@ HN_POOL_SIZE = 50        # Number of candidates fetched from front page
 HN_TARGET_COUNT = 10     # Number of curated items in the final report
 HN_MIN_POINTS = 10       # Minimum points required for non-boosted entries
 
+# GitHub Trending Settings
+GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
+GITHUB_TARGET_COUNT = 5
+GITHUB_TOKEN_ENV = "GITHUB_TOKEN"
+
+# Hugging Face Settings
+HUGGINGFACE_DAILY_PAPERS_URL = "https://huggingface.co/api/daily_papers"
+HUGGINGFACE_TARGET_COUNT = 5
+
 # ArXiv Settings (HTTPS enforced!)
 ARXIV_API_URL = "https://export.arxiv.org/api/query"
 ARXIV_CATEGORIES = ["cat:cs.AI", "cat:cs.LG", "cat:cs.CL"]
 ARXIV_FETCH_COUNT = 10   # Fetch more to allow deduplication / verification
 ARXIV_TARGET_COUNT = 5   # Target papers in the final report
+
+# Gemini AI Synthesis Settings
+GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+GEMINI_FALLBACK_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+GEMINI_API_KEY_ENV = "GEMINI_API_KEY"
 
 # Text Summarizer Settings
 SUMMARY_MAX_CHARS = 380
