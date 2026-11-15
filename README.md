@@ -17,37 +17,37 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-14`
+### ⚡ Son Güncelleme: `2026-11-15`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-14.md`)](reports/2026-11-14.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-15.md`)](reports/2026-11-15.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Nvidia'nın yapay zeka girişimlerini finanse ederek yapay bir GPU kıtlığı yarattığı iddiaları teknoloji pazarındaki rekabet ve çip hakimiyetini tartışmaya açarken, FAA'nın ulusal uçuş durdurma kararı kritik altyapıların siber ve operasyonel kırılganlıklarını bir kez daha gözler önüne serdi.
-- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde arka planda otonom olarak görev yürüten agent-autoloop gibi yapay zeka ajanları ve çapraz platform destekli Expo araçları öne çıkarken, Coway hava temizleyicinin bulut bağımlılığını kaldıran tersine mühendislik projeleri yerel kontrol eğilimini güçlendiriyor.
-- 🔬 **Yapay Zeka & Araştırma:** Dünya modelleri (JEPA), otonom sürüş sistemleri ve matematiksel kanıt denetimini ölçeklendirme çalışmaları odağında şekillenen yeni nesil yapay zeka araştırmaları, modellerin fiziksel dünya algısını ve muhakeme kapasitesini artırmayı hedefliyor.
+- 🌐 **Sektör & Büyük Olaylar:** (YAZILIM)**: Kiri container runtime, MCP browser tooling, autonomous agents
+- 🛠️ **Yazılım & Açık Kaynak:** Açık kaynak projelerinde hareketlilik sürdü.
+- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka araştırmalarında yeni modeller sunuldu.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) | ⭐ 699 | 💬 406 | [Tartışma](https://news.ycombinator.com/item?id=50493251) |
-| `⚙️ Sistem & Altyapı` | [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) | ⭐ 764 | 💬 215 | [Tartışma](https://news.ycombinator.com/item?id=50474959) |
-| `🤖 AI / ML` | [Jonathan Blow – If AI solved coding, why is my software still the same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) | ⭐ 331 | 💬 447 | [Tartışma](https://news.ycombinator.com/item?id=50484658) |
-| `💻 Yazılım & Geliştirme` | [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) | ⭐ 302 | 💬 47 | [Tartışma](https://news.ycombinator.com/item?id=50493062) |
-| `🤖 AI / ML` | [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa) | ⭐ 268 | 💬 45 | [Tartışma](https://news.ycombinator.com/item?id=50487185) |
+| `💻 Yazılım & Geliştirme` | [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) | ⭐ 352 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50499038) |
+| `🤖 AI / ML` | [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) | ⭐ 246 | 💬 23 | [Tartışma](https://news.ycombinator.com/item?id=50497589) |
+| `🛡️ Güvenlik` | [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) | ⭐ 255 | 💬 111 | [Tartışma](https://news.ycombinator.com/item?id=50497892) |
+| `💻 Yazılım & Geliştirme` | [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) | ⭐ 267 | 💬 72 | [Tartışma](https://news.ycombinator.com/item?id=50503255) |
+| `🤖 AI / ML` | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | ⭐ 221 | 💬 113 | [Tartışma](https://news.ycombinator.com/item?id=50441444) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `General` | ⭐ 8,836 | YellowFruit third-party client |
-| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 8,433 | Agent skills |
-| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,485 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 8,917 | Plug-in media player |
+| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 8,793 | Agent skills |
+| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,685 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777)** `HuggingFace` *(🔺 84 oy · Lichen Li, Ziping Dong vb.)*
+- 🤗 **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777)** `HuggingFace` *(🔺 136 oy · Lichen Li, Ziping Dong vb.)*
   System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
 
-- 🤗 **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815)** `HuggingFace` *(🔺 49 oy · Junyoung Seo, Jaewoo Seo vb.)*
+- 🤗 **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815)** `HuggingFace` *(🔺 50 oy · Junyoung Seo, Jaewoo Seo vb.)*
   Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded.
 
 - 🤖 **[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)** `cs.CV` *(Yazarlar: Ellis Brown, Chris Hoang, Shengyi Qian vb.)*
@@ -57,13 +57,13 @@
   *📅 Yayın: 2026-11-12* — Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-15 Raporu](reports/2026-11-15.md)
 - [📅 2026-11-14 Raporu](reports/2026-11-14.md)
 - [📅 2026-11-13 Raporu](reports/2026-11-13.md)
 - [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 - [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 - [📅 2026-11-08 Raporu](reports/2026-11-08.md)
-- [📅 2026-11-07 Raporu](reports/2026-11-07.md)
 <!-- LATEST_REPORT_END -->
 
 ---
