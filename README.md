@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-15`
+### ⚡ Son Güncelleme: `2026-11-16`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-15.md`)](reports/2026-11-15.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-16.md`)](reports/2026-11-16.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** (YAZILIM)**: Kiri container runtime, MCP browser tooling, autonomous agents
-- 🛠️ **Yazılım & Açık Kaynak:** Açık kaynak projelerinde hareketlilik sürdü.
-- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka araştırmalarında yeni modeller sunuldu.
+- 🌐 **Sektör & Büyük Olaylar:** Nvidia'nın gelecekteki hamleleri ve eski Bitly bağlantılarının ele geçirilmesi gibi güvenlik açıkları endüstri gündemini meşgul ederken, ucuz harita sunumu (Protomaps) ve uBlock Origin'deki evrensel XSS açığı ekosistem genelinde yeni güvenlik ve altyapı tartışmalarını tetikliyor.
+- 🛠️ **Yazılım & Açık Kaynak:** GitHub trendlerinde, arka planda özerk çalışan komut satırı ajanları (agent-autoloop) ve iOS 27 için geliştirilen MobileGestalt düzenleyicisi (GestaltX) öne çıkarken, retro teknolojilerden güncel Rust tabanlı eklenti oynatıcılara kadar geniş bir geliştirici yelpazesi
+- 🔬 **Yapay Zeka & Araştırma:** 
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `💻 Yazılım & Geliştirme` | [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) | ⭐ 352 | 💬 176 | [Tartışma](https://news.ycombinator.com/item?id=50499038) |
-| `🤖 AI / ML` | [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) | ⭐ 246 | 💬 23 | [Tartışma](https://news.ycombinator.com/item?id=50497589) |
-| `🛡️ Güvenlik` | [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) | ⭐ 255 | 💬 111 | [Tartışma](https://news.ycombinator.com/item?id=50497892) |
-| `💻 Yazılım & Geliştirme` | [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) | ⭐ 267 | 💬 72 | [Tartışma](https://news.ycombinator.com/item?id=50503255) |
-| `🤖 AI / ML` | [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | ⭐ 221 | 💬 113 | [Tartışma](https://news.ycombinator.com/item?id=50441444) |
+| `🤖 AI / ML` | [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | ⭐ 352 | 💬 435 | [Tartışma](https://news.ycombinator.com/item?id=50512235) |
+| `💻 Yazılım & Geliştirme` | [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) | ⭐ 108 | 💬 46 | [Tartışma](https://news.ycombinator.com/item?id=50516473) |
+| `💻 Yazılım & Geliştirme` | [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF) | ⭐ 46 | 💬 4 | [Tartışma](https://news.ycombinator.com/item?id=50515182) |
+| `⚙️ Sistem & Altyapı` | [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad) | ⭐ 29 | 💬 12 | [Tartışma](https://news.ycombinator.com/item?id=50487628) |
+| `⚡ Teknoloji` | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | ⭐ 691 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50513215) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 8,917 | Plug-in media player |
-| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 8,793 | Agent skills |
-| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,685 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 9,402 | Plug-in media player |
+| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 9,382 | Agent skills |
+| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,832 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://huggingface.co/papers/2611.15777)** `HuggingFace` *(🔺 136 oy · Lichen Li, Ziping Dong vb.)*
-  System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
+- 🤗 **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://huggingface.co/papers/2611.18359)** `HuggingFace` *(🔺 101 oy · Grid Robotics, Qingfeng Lan vb.)*
+  The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks.
 
-- 🤗 **[BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://huggingface.co/papers/2611.14815)** `HuggingFace` *(🔺 50 oy · Junyoung Seo, Jaewoo Seo vb.)*
-  Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded.
+- 🤗 **[VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://huggingface.co/papers/2611.15789)** `HuggingFace` *(🔺 81 oy · Yuzhe Chen, Muxi Diao vb.)*
+  Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them.
 
-- 🤖 **[Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)** `cs.CV` *(Yazarlar: Ellis Brown, Chris Hoang, Shengyi Qian vb.)*
-  *📅 Yayın: 2026-11-12* — How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely.
+- 🤖 **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](https://arxiv.org/abs/2611.18563v1)** `cs.LG` *(Yazarlar: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira vb.)*
+  *📅 Yayın: 2026-11-13* — Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities.
 
-- 🤖 **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](https://arxiv.org/abs/2611.17332v1)** `cs.CL` *(Yazarlar: Jie Wang, Tong Zhu, JiaHao Kuang vb.)*
-  *📅 Yayın: 2026-11-12* — Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why.
+- 🤖 **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](https://arxiv.org/abs/2611.18561v1)** `q-bio.NC` *(Yazarlar: Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou vb.)*
+  *📅 Yayın: 2026-11-13* — Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-16 Raporu](reports/2026-11-16.md)
 - [📅 2026-11-15 Raporu](reports/2026-11-15.md)
 - [📅 2026-11-14 Raporu](reports/2026-11-14.md)
 - [📅 2026-11-13 Raporu](reports/2026-11-13.md)
 - [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 - [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 - [📅 2026-11-10 Raporu](reports/2026-11-10.md)
-- [📅 2026-11-08 Raporu](reports/2026-11-08.md)
 <!-- LATEST_REPORT_END -->
 
 ---
