@@ -23,32 +23,32 @@
 > 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-16.md`)](reports/2026-11-16.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Nvidia'nın gelecekteki hamleleri ve eski Bitly bağlantılarının ele geçirilmesi gibi güvenlik açıkları endüstri gündemini meşgul ederken, ucuz harita sunumu (Protomaps) ve uBlock Origin'deki evrensel XSS açığı ekosistem genelinde yeni güvenlik ve altyapı tartışmalarını tetikliyor.
-- 🛠️ **Yazılım & Açık Kaynak:** GitHub trendlerinde, arka planda özerk çalışan komut satırı ajanları (agent-autoloop) ve iOS 27 için geliştirilen MobileGestalt düzenleyicisi (GestaltX) öne çıkarken, retro teknolojilerden güncel Rust tabanlı eklenti oynatıcılara kadar geniş bir geliştirici yelpazesi
-- 🔬 **Yapay Zeka & Araştırma:** 
+- 🌐 **Sektör & Büyük Olaylar:** Nvidia'nın yeni nesil yapay zeka modelleri ve pazar stratejileri teknoloji gündemini meşgul ederken, kritik altyapıları hedefleyen sürekli DDoS saldırılarına karşı Tor Projesi gibi yapılar hızla güvenlik yamaları devreye sokuyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Mikrodenetleyiciler için görsel programlama sunan ThingStudio ve tek dosyalık Go tabanlı OpenTodo gibi yenilikçi araçlar öne çıkarken, arka planda otonom çalışan komut satırı ajanları geliştirici ekosisteminde hızla popülerleşiyor.
+- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka dünyası, gerçek zamanlı oyun ajanları, robotik sistemler ve beyin-metinçözme teknolojilerindeki verimlilik odaklı yeni nesil mimari ve simülasyon çalışmalar
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | ⭐ 352 | 💬 435 | [Tartışma](https://news.ycombinator.com/item?id=50512235) |
-| `💻 Yazılım & Geliştirme` | [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/) | ⭐ 108 | 💬 46 | [Tartışma](https://news.ycombinator.com/item?id=50516473) |
-| `💻 Yazılım & Geliştirme` | [Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME](https://github.com/ages2001/WINUDF) | ⭐ 46 | 💬 4 | [Tartışma](https://news.ycombinator.com/item?id=50515182) |
-| `⚙️ Sistem & Altyapı` | [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad) | ⭐ 29 | 💬 12 | [Tartışma](https://news.ycombinator.com/item?id=50487628) |
-| `⚡ Teknoloji` | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | ⭐ 691 | 💬 324 | [Tartışma](https://news.ycombinator.com/item?id=50513215) |
+| `🤖 AI / ML` | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | ⭐ 746 | 💬 374 | [Tartışma](https://news.ycombinator.com/item?id=50513215) |
+| `🤖 AI / ML` | [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | ⭐ 390 | 💬 490 | [Tartışma](https://news.ycombinator.com/item?id=50512235) |
+| `🛡️ Güvenlik` | [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | ⭐ 514 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50513160) |
+| `🛡️ Güvenlik` | [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | ⭐ 211 | 💬 55 | [Tartışma](https://news.ycombinator.com/item?id=50512441) |
+| `⚙️ Sistem & Altyapı` | [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad) | ⭐ 35 | 💬 11 | [Tartışma](https://news.ycombinator.com/item?id=50487628) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 9,402 | Plug-in media player |
-| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 9,382 | Agent skills |
-| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,832 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 9,430 | Plug-in media player |
+| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 9,430 | Agent skills |
+| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,850 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://huggingface.co/papers/2611.18359)** `HuggingFace` *(🔺 101 oy · Grid Robotics, Qingfeng Lan vb.)*
+- 🤗 **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://huggingface.co/papers/2611.18359)** `HuggingFace` *(🔺 106 oy · Grid Robotics, Qingfeng Lan vb.)*
   The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks.
 
-- 🤗 **[VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://huggingface.co/papers/2611.15789)** `HuggingFace` *(🔺 81 oy · Yuzhe Chen, Muxi Diao vb.)*
-  Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them.
+- 🤗 **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** `HuggingFace` *(🔺 84 oy · Run Luo, Kuan Zhang vb.)*
+  We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds.
 
 - 🤖 **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](https://arxiv.org/abs/2611.18563v1)** `cs.LG` *(Yazarlar: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira vb.)*
   *📅 Yayın: 2026-11-13* — Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities.
