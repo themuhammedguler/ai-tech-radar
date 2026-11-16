@@ -51,14 +51,25 @@ SUMMARY_MAX_CHARS = 380
 SUMMARY_MIN_CHARS = 80
 ARCHIVE_DISPLAY_DAYS = 7
 
-# HackerNews Negative Filter Patterns (Exclude spam, obituaries, pure medical, politics)
+# Stale / Archive Detection Settings
+STALE_YEAR_TAG_PATTERN = r"[\(\[]\s*(19\d{2}|20\d{2})\s*[\)\]]"
+STALE_URL_DATE_PATTERN = r"/(19\d{2}|20[0-2]\d)/(0[1-9]|1[0-2])/"
+MAX_ALLOWED_ARTICLE_AGE_YEARS = 0  # Rejects articles tagged with previous years (e.g. <= 2025 in 2026)
+
+# HackerNews Negative Filter Patterns (Exclude spam, obituaries, pure medical, politics, shopping, retro computing)
 NEGATIVE_PATTERNS = [
     r"\bhas died\b", r"\bdies at\b", r"\bpassed away\b", r"\bobituary\b", r"\bdeath of\b",
     r"\bcancer\b", r"\bdentist\b", r"\bdentistry\b", r"\badhd\b", r"\bautism\b",
     r"\bdiet\b", r"\bweight loss\b", r"\bheart attack\b", r"\bdementia\b", r"\balzheimer\b",
     r"\btoddler\b", r"\bparenting\b", r"\bdivorce\b", r"\bdating\b", r"\bmarriage\b",
     r"\belection\b", r"\bsenate\b", r"\bpresident\b", r"\bcongress\b", r"\bdemocrat\b", r"\brepublican\b",
-    r"\bis hiring\b", r"\bwho is hiring\b", r"\bwho wants to be hired\b", r"\bhiring:\b"
+    r"\bis hiring\b", r"\bwho is hiring\b", r"\bwho wants to be hired\b", r"\bhiring:\b",
+    # Commercial shopping deals
+    r"\b(black friday|cyber monday|prime day)\b",
+    # Retro computing / vintage OS nostalgia
+    r"\b(retro computing|vintage computing|commodore 64|amiga os|atari st)\b",
+    r"\b(windows 1\.[x\d]|windows 3\.[x\d]|windows 95|windows 98|windows me|ms-dos)\b",
+    r"\b(30 years ago|20 years ago|in the 1990s|in the 1980s)\b"
 ]
 
 # Exceptions: If any of these exist, do NOT eliminate even if a negative word matches
@@ -77,7 +88,7 @@ TECH_DOMAINS = [
 # Categorization and positive scoring dictionary
 TECH_CATEGORIES = {
     "🤖 AI / ML": [
-        "ai", "llm", "llms", "cnn", "cnns", "agent", "agents", "gpt", "model", "models", "neural", "deep learning", "machine learning",
+        "ai", "llm", "llms", "cnn", "cnns", "agent", "agents", "gpt", "gpt-4", "gpt-5", "model", "models", "neural", "deep learning", "machine learning",
         "weights", "transformer", "diffusion", "inference", "gpu", "cuda", "nvidia",
         "anthropic", "openai", "gemini", "mistral", "claude", "deepseek", "qwen", "llama",
         "opus", "fine-tuning", "rag", "embedding", "multimodal", "reasoning", "vision",
@@ -86,10 +97,12 @@ TECH_CATEGORIES = {
     "🛡️ Güvenlik": [
         "security", "vulnerability", "cve", "exploit", "hack", "hacked", "cyber", "malware",
         "ransomware", "breach", "zero-day", "backdoor", "encryption", "auth", "phishing",
-        "infected", "vm escape", "credential", "pwn"
+        "infected", "vm escape", "credential", "pwn", "xss", "csrf", "sqli", "ddos",
+        "dos attack", "rce", "infosec", "privilege escalation", "reverse engineering"
     ],
     "💻 Yazılım & Geliştirme": [
-        "software", "programming", "code", "coding", "developer", "open source", "open-source",
+        "software", "programming", "source code", "codebase", "clean code", "bytecode", "vscode",
+        "coding", "developer", "open source", "open-source",
         "github", "rust", "python", "javascript", "typescript", "golang", "go 1.", "c++",
         "wasm", "webassembly", "database", "postgres", "sqlite", "redis", "compiler",
         "git", "api", "framework", "library", "testing", "frontend", "backend", "bare-metal",

@@ -118,6 +118,7 @@ class AiSummarizer:
         lines.append("""
 GÖREV:
 Bu verileri bir teknoloji analisti gözüyle sentezle ve Türkçe olarak tam 3 tematik madde halinde günlük yönetici brifingi (Executive TL;DR) oluştur.
+Yalnızca güncel, taze ve çağdaş teknolojik gelişmeleri sentezle; geçmişe ait retrospektif veya nostaljik donanım/yazılım hilelerini brifinge dahil etme.
 Her madde 1-2 akıcı ve bilgilendirici cümleden oluşmalıdır.
 
 Format kesinlikle şu şekilde olmalıdır:
