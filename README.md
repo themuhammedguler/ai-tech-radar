@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-16`
+### ⚡ Son Güncelleme: `2026-11-17`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-16.md`)](reports/2026-11-16.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-17.md`)](reports/2026-11-17.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Nvidia'nın yeni nesil yapay zeka modelleri ve pazar stratejileri teknoloji gündemini meşgul ederken, kritik altyapıları hedefleyen sürekli DDoS saldırılarına karşı Tor Projesi gibi yapılar hızla güvenlik yamaları devreye sokuyor.
-- 🛠️ **Yazılım & Açık Kaynak:** Mikrodenetleyiciler için görsel programlama sunan ThingStudio ve tek dosyalık Go tabanlı OpenTodo gibi yenilikçi araçlar öne çıkarken, arka planda otonom çalışan komut satırı ajanları geliştirici ekosisteminde hızla popülerleşiyor.
-- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka dünyası, gerçek zamanlı oyun ajanları, robotik sistemler ve beyin-metinçözme teknolojilerindeki verimlilik odaklı yeni nesil mimari ve simülasyon çalışmalar
+- 🌐 **Sektör & Büyük Olaylar:** Optimizely altyapısının ihlal edilerek Zoom ve GitLab kullanıcılarına zararlı yazılım servis edilmesi, tedarik zinciri güvenliğinin kritik boyutunu bir kez daha gözler önüne sererken; Baidu ve Xiaomi CEO'ları yapay zeka balonu ile elde edilen somut finansal getiriler arasındaki makasın açıldığına dikkat çekiyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Rust ekosisteminde güvenli ve performanslı veri tabanı çözümleri sunan VennDB ile modern tarih kütüphanesi Jiff 1.0 öne çıkarken; iOS ekosistemine yönelik GestaltX ve iPhone/Mac üzerinde Nintendo Switch oyunlarını native çalıştıran S2Arm gibi yenilikçi açık kaynak projeleri geliştirici gündemini belirliyor.
+- 🔬 **Yapay Zeka & Araştırma:** Çok modlu yapay zeka sistemlerinin planlama yeteneklerini geliştiren ViRA ve "How VLMs Plan What's Next" gibi güncel çalışmalar, ajan mimarilerinin görsel veriyi işleme kapasitesini artırırken; K2-Horizon ve MIRIX-2.0 gibi açık kaynaklı dil modeli ve çoklu ajan bellek sistemleri yapay zeka araştırmalarının odağını oluşturuyor.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) | ⭐ 746 | 💬 374 | [Tartışma](https://news.ycombinator.com/item?id=50513215) |
-| `🤖 AI / ML` | [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) | ⭐ 390 | 💬 490 | [Tartışma](https://news.ycombinator.com/item?id=50512235) |
-| `🛡️ Güvenlik` | [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) | ⭐ 514 | 💬 148 | [Tartışma](https://news.ycombinator.com/item?id=50513160) |
-| `🛡️ Güvenlik` | [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) | ⭐ 211 | 💬 55 | [Tartışma](https://news.ycombinator.com/item?id=50512441) |
-| `⚙️ Sistem & Altyapı` | [Exact Gradients Through a BRep Kernel](https://muni.works/research/vcad) | ⭐ 35 | 💬 11 | [Tartışma](https://news.ycombinator.com/item?id=50487628) |
+| `🛡️ Güvenlik` | [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | ⭐ 515 | 💬 206 | [Tartışma](https://news.ycombinator.com/item?id=50524767) |
+| `💻 Yazılım & Geliştirme` | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) | ⭐ 417 | 💬 89 | [Tartışma](https://news.ycombinator.com/item?id=50519744) |
+| `💻 Yazılım & Geliştirme` | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) | ⭐ 396 | 💬 300 | [Tartışma](https://news.ycombinator.com/item?id=50517321) |
+| `💻 Yazılım & Geliştirme` | [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/) | ⭐ 146 | 💬 52 | [Tartışma](https://news.ycombinator.com/item?id=50511874) |
+| `🤖 AI / ML` | [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) | ⭐ 110 | 💬 115 | [Tartışma](https://news.ycombinator.com/item?id=50529612) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Minireel/HGhub**](https://github.com/Minireel/HGhub) | `Rust` | ⭐ 9,430 | Plug-in media player |
-| [**janestreet/agent_skills**](https://github.com/janestreet/agent_skills) | `General` | ⭐ 9,430 | Agent skills |
-| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 7,850 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 8,041 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**deepseek-ai/chat-demo**](https://github.com/deepseek-ai/chat-demo) | `TypeScript` | ⭐ 4,465 | Chat Demo |
+| [**tangerineturtle1/NX2navi**](https://github.com/tangerineturtle1/NX2navi) | `C` | ⭐ 4,292 | Açıklama bulunamadı. |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Envisioning Agentic Robotics: A New Era of Robotic Systems](https://huggingface.co/papers/2611.18359)** `HuggingFace` *(🔺 106 oy · Grid Robotics, Qingfeng Lan vb.)*
-  The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks.
+- 🤗 **[Sage S2.1 Flash Technical Report](https://huggingface.co/papers/2611.21072)** `HuggingFace` *(🔺 78 oy · Kun Cai, Haodong Chen vb.)*
+  We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements.
 
-- 🤗 **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://huggingface.co/papers/2611.18397)** `HuggingFace` *(🔺 84 oy · Run Luo, Kuan Zhang vb.)*
-  We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds.
+- 🤗 **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](https://huggingface.co/papers/2611.19937)** `HuggingFace` *(🔺 64 oy · Annan Wang, Yuchen Xie vb.)*
+  Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities.
 
-- 🤖 **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](https://arxiv.org/abs/2611.18563v1)** `cs.LG` *(Yazarlar: Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira vb.)*
-  *📅 Yayın: 2026-11-13* — Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite its known vulnerabilities.
+- 🤖 **[Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1)** `cs.LG` *(Yazarlar: Shivam Duggal, Zongze Wu, William T. Freeman vb.)*
+  *📅 Yayın: 2026-11-16* — Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains.
 
-- 🤖 **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](https://arxiv.org/abs/2611.18561v1)** `q-bio.NC` *(Yazarlar: Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou vb.)*
-  *📅 Yayın: 2026-11-13* — Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achieve high decoding accuracy.
+- 🤖 **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/abs/2611.21605v1)** `cs.CV` *(Yazarlar: Huawei Lin, Jinting Liu, Tongyan Wang vb.)*
+  *📅 Yayın: 2026-11-16* — Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-17 Raporu](reports/2026-11-17.md)
 - [📅 2026-11-16 Raporu](reports/2026-11-16.md)
 - [📅 2026-11-15 Raporu](reports/2026-11-15.md)
 - [📅 2026-11-14 Raporu](reports/2026-11-14.md)
 - [📅 2026-11-13 Raporu](reports/2026-11-13.md)
 - [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 - [📅 2026-11-11 Raporu](reports/2026-11-11.md)
-- [📅 2026-11-10 Raporu](reports/2026-11-10.md)
 <!-- LATEST_REPORT_END -->
 
 ---
