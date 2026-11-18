@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-17`
+### ⚡ Son Güncelleme: `2026-11-18`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-17.md`)](reports/2026-11-17.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-18.md`)](reports/2026-11-18.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Optimizely altyapısının ihlal edilerek Zoom ve GitLab kullanıcılarına zararlı yazılım servis edilmesi, tedarik zinciri güvenliğinin kritik boyutunu bir kez daha gözler önüne sererken; Baidu ve Xiaomi CEO'ları yapay zeka balonu ile elde edilen somut finansal getiriler arasındaki makasın açıldığına dikkat çekiyor.
-- 🛠️ **Yazılım & Açık Kaynak:** Rust ekosisteminde güvenli ve performanslı veri tabanı çözümleri sunan VennDB ile modern tarih kütüphanesi Jiff 1.0 öne çıkarken; iOS ekosistemine yönelik GestaltX ve iPhone/Mac üzerinde Nintendo Switch oyunlarını native çalıştıran S2Arm gibi yenilikçi açık kaynak projeleri geliştirici gündemini belirliyor.
-- 🔬 **Yapay Zeka & Araştırma:** Çok modlu yapay zeka sistemlerinin planlama yeteneklerini geliştiren ViRA ve "How VLMs Plan What's Next" gibi güncel çalışmalar, ajan mimarilerinin görsel veriyi işleme kapasitesini artırırken; K2-Horizon ve MIRIX-2.0 gibi açık kaynaklı dil modeli ve çoklu ajan bellek sistemleri yapay zeka araştırmalarının odağını oluşturuyor.
+- 🌐 **Sektör & Büyük Olaylar:** Google'ın yapay zeka tabanlı arama yanıtlarının yayıncı trafiğini %40 oranında düşürmesi ve Nvidia'nın Singapur satışlarını gizlemeye başlaması, yapay zeka ekosistemindeki ekonomik baskıların ve regülasyon kaygılarının tırmandığını gösteriyor. Öte yandan, kritik ulusal güvenlik iletişim ağlarının çökerken OpenJDK'da kritik bir RCE açığının (Java4Shell) ortaya çıkması, dijital altyapılarda hem siber güvenlik hem de dayanıklılık krizlerinin derinleştiğini kanıtlıyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Microsoft'un ONNX Runtime kütüphanesinin GitHub'dan ani çekilişi ve klasik jQuery'nin 4.1.0 sürümüne güncellemesi ekosistemde tedirginlik yaratırken, geliştirici araçları tarafındaki yapay zeka entegrasyonu kod yazmaktan ziyade "kod inceleme" aşamasını ana darboğaz haline getirdi.
+- 🔬 **Yapay Zeka & Araştırma:** Ajan tabanlı yapay zeka modelleri (Agentic Models) yerli çip mim
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🛡️ Güvenlik` | [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) | ⭐ 515 | 💬 206 | [Tartışma](https://news.ycombinator.com/item?id=50524767) |
-| `💻 Yazılım & Geliştirme` | [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) | ⭐ 417 | 💬 89 | [Tartışma](https://news.ycombinator.com/item?id=50519744) |
-| `💻 Yazılım & Geliştirme` | [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) | ⭐ 396 | 💬 300 | [Tartışma](https://news.ycombinator.com/item?id=50517321) |
-| `💻 Yazılım & Geliştirme` | [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/) | ⭐ 146 | 💬 52 | [Tartışma](https://news.ycombinator.com/item?id=50511874) |
-| `🤖 AI / ML` | [How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/) | ⭐ 110 | 💬 115 | [Tartışma](https://news.ycombinator.com/item?id=50529612) |
+| `🤖 AI / ML` | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | ⭐ 1320 | 💬 823 | [Tartışma](https://news.ycombinator.com/item?id=50535230) |
+| `🛡️ Güvenlik` | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | ⭐ 1070 | 💬 283 | [Tartışma](https://news.ycombinator.com/item?id=50538240) |
+| `💻 Yazılım & Geliştirme` | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | ⭐ 810 | 💬 365 | [Tartışma](https://news.ycombinator.com/item?id=50538994) |
+| `🛡️ Güvenlik` | [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) | ⭐ 643 | 💬 718 | [Tartışma](https://news.ycombinator.com/item?id=50532849) |
+| `🤖 AI / ML` | [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) | ⭐ 608 | 💬 569 | [Tartışma](https://news.ycombinator.com/item?id=50542705) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**huamidev/GestaltX**](https://github.com/huamidev/GestaltX) | `Swift` | ⭐ 8,041 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
-| [**deepseek-ai/chat-demo**](https://github.com/deepseek-ai/chat-demo) | `TypeScript` | ⭐ 4,465 | Chat Demo |
-| [**tangerineturtle1/NX2navi**](https://github.com/tangerineturtle1/NX2navi) | `C` | ⭐ 4,292 | Açıklama bulunamadı. |
+| [**huami1314/GestaltX**](https://github.com/huami1314/GestaltX) | `Swift` | ⭐ 8,307 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**deepseek-ai/chat-demo**](https://github.com/deepseek-ai/chat-demo) | `TypeScript` | ⭐ 4,736 | Chat Demo |
+| [**tangerineturtle1/NX2navi**](https://github.com/tangerineturtle1/NX2navi) | `C` | ⭐ 4,315 | Açıklama bulunamadı. |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Sage S2.1 Flash Technical Report](https://huggingface.co/papers/2611.21072)** `HuggingFace` *(🔺 78 oy · Kun Cai, Haodong Chen vb.)*
-  We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements.
+- 🤗 **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://huggingface.co/papers/2611.22115)** `HuggingFace` *(🔺 146 oy · Xingchen AGI Lab, Baotian Hu vb.)*
+  We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training.
 
-- 🤗 **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](https://huggingface.co/papers/2611.19937)** `HuggingFace` *(🔺 64 oy · Annan Wang, Yuchen Xie vb.)*
-  Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities.
+- 🤗 **[AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://huggingface.co/papers/2611.17621)** `HuggingFace` *(🔺 90 oy · AI Training Platform Team, Bingwei Zhang vb.)*
+  Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads.
 
-- 🤖 **[Latent Lattice Language Models](https://arxiv.org/abs/2611.21608v1)** `cs.LG` *(Yazarlar: Shivam Duggal, Zongze Wu, William T. Freeman vb.)*
-  *📅 Yayın: 2026-11-16* — Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains.
+- 🤖 **[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1)** `cs.LG` *(Yazarlar: Giannis Daras, Marios Papachristou, Adam Klivans vb.)*
+  *📅 Yayın: 2026-11-17* — Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution.
 
-- 🤖 **[ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/abs/2611.21605v1)** `cs.CV` *(Yazarlar: Huawei Lin, Jinting Liu, Tongyan Wang vb.)*
-  *📅 Yayın: 2026-11-16* — Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading.
+- 🤖 **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/abs/2611.23228v1)** `cs.CV` *(Yazarlar: Rui Ning, Om Chabra, Hari Balakrishnan)*
+  *📅 Yayın: 2026-11-17* — Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes).
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-18 Raporu](reports/2026-11-18.md)
 - [📅 2026-11-17 Raporu](reports/2026-11-17.md)
 - [📅 2026-11-16 Raporu](reports/2026-11-16.md)
 - [📅 2026-11-15 Raporu](reports/2026-11-15.md)
 - [📅 2026-11-14 Raporu](reports/2026-11-14.md)
 - [📅 2026-11-13 Raporu](reports/2026-11-13.md)
 - [📅 2026-11-12 Raporu](reports/2026-11-12.md)
-- [📅 2026-11-11 Raporu](reports/2026-11-11.md)
 <!-- LATEST_REPORT_END -->
 
 ---
