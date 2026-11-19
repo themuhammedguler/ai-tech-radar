@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-18`
+### ⚡ Son Güncelleme: `2026-11-19`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-18.md`)](reports/2026-11-18.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-19.md`)](reports/2026-11-19.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Google'ın yapay zeka tabanlı arama yanıtlarının yayıncı trafiğini %40 oranında düşürmesi ve Nvidia'nın Singapur satışlarını gizlemeye başlaması, yapay zeka ekosistemindeki ekonomik baskıların ve regülasyon kaygılarının tırmandığını gösteriyor. Öte yandan, kritik ulusal güvenlik iletişim ağlarının çökerken OpenJDK'da kritik bir RCE açığının (Java4Shell) ortaya çıkması, dijital altyapılarda hem siber güvenlik hem de dayanıklılık krizlerinin derinleştiğini kanıtlıyor.
-- 🛠️ **Yazılım & Açık Kaynak:** Microsoft'un ONNX Runtime kütüphanesinin GitHub'dan ani çekilişi ve klasik jQuery'nin 4.1.0 sürümüne güncellemesi ekosistemde tedirginlik yaratırken, geliştirici araçları tarafındaki yapay zeka entegrasyonu kod yazmaktan ziyade "kod inceleme" aşamasını ana darboğaz haline getirdi.
-- 🔬 **Yapay Zeka & Araştırma:** Ajan tabanlı yapay zeka modelleri (Agentic Models) yerli çip mim
+- 🌐 **Sektör & Büyük Olaylar:** Anthropic'in halka arz fiyatlandırması
+- 🛠️ **Yazılım & Açık Kaynak:** 
+- 🔬 **Yapay Zeka & Araştırma:** 
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) | ⭐ 1320 | 💬 823 | [Tartışma](https://news.ycombinator.com/item?id=50535230) |
-| `🛡️ Güvenlik` | [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) | ⭐ 1070 | 💬 283 | [Tartışma](https://news.ycombinator.com/item?id=50538240) |
-| `💻 Yazılım & Geliştirme` | [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) | ⭐ 810 | 💬 365 | [Tartışma](https://news.ycombinator.com/item?id=50538994) |
-| `🛡️ Güvenlik` | [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) | ⭐ 643 | 💬 718 | [Tartışma](https://news.ycombinator.com/item?id=50532849) |
-| `🤖 AI / ML` | [AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) | ⭐ 608 | 💬 569 | [Tartışma](https://news.ycombinator.com/item?id=50542705) |
+| `🤖 AI / ML` | [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) | ⭐ 925 | 💬 722 | [Tartışma](https://news.ycombinator.com/item?id=50552424) |
+| `🤖 AI / ML` | [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) | ⭐ 577 | 💬 363 | [Tartışma](https://news.ycombinator.com/item?id=50548021) |
+| `🤖 AI / ML` | [Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) | ⭐ 334 | 💬 620 | [Tartışma](https://news.ycombinator.com/item?id=50553843) |
+| `💻 Yazılım & Geliştirme` | [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) | ⭐ 151 | 💬 35 | [Tartışma](https://news.ycombinator.com/item?id=50557537) |
+| `⚙️ Sistem & Altyapı` | [15M web servers on one VM – smoltcp, DPDK, AF_XDP](https://kapteko.com/15-million-webservers/) | ⭐ 259 | 💬 30 | [Tartışma](https://news.ycombinator.com/item?id=50556533) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**huami1314/GestaltX**](https://github.com/huami1314/GestaltX) | `Swift` | ⭐ 8,307 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
-| [**deepseek-ai/chat-demo**](https://github.com/deepseek-ai/chat-demo) | `TypeScript` | ⭐ 4,736 | Chat Demo |
-| [**tangerineturtle1/NX2navi**](https://github.com/tangerineturtle1/NX2navi) | `C` | ⭐ 4,315 | Açıklama bulunamadı. |
+| [**huami1314/GestaltX**](https://github.com/huami1314/GestaltX) | `Swift` | ⭐ 8,498 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
+| [**deepseek-ai/chat-demo**](https://github.com/deepseek-ai/chat-demo) | `TypeScript` | ⭐ 4,996 | Chat Demo |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 4,570 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://huggingface.co/papers/2611.22115)** `HuggingFace` *(🔺 146 oy · Xingchen AGI Lab, Baotian Hu vb.)*
-  We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training.
+- 🤗 **[Jeveration: System One Models Now Generate](https://huggingface.co/papers/2611.24738)** `HuggingFace` *(🔺 63 oy · Yuhe Liu, Qi Li vb.)*
+  System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation.
 
-- 🤗 **[AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://huggingface.co/papers/2611.17621)** `HuggingFace` *(🔺 90 oy · AI Training Platform Team, Bingwei Zhang vb.)*
-  Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads.
+- 🤗 **[ALIVE: Making Streaming Video Models Interactive](https://huggingface.co/papers/2611.21366)** `HuggingFace` *(🔺 28 oy · Jinzhao Li, Yuan Xu vb.)*
+  Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training.
 
-- 🤖 **[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1)** `cs.LG` *(Yazarlar: Giannis Daras, Marios Papachristou, Adam Klivans vb.)*
-  *📅 Yayın: 2026-11-17* — Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution.
+- 🤖 **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](https://arxiv.org/abs/2611.24936v1)** `cs.CL` *(Yazarlar: Yan Qiu, Yuanyuan Li)*
+  *📅 Yayın: 2026-11-18* — Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier.
 
-- 🤖 **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/abs/2611.23228v1)** `cs.CV` *(Yazarlar: Rui Ning, Om Chabra, Hari Balakrishnan)*
-  *📅 Yayın: 2026-11-17* — Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes).
+- 🤖 **[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](https://arxiv.org/abs/2611.24932v1)** `cs.AI` *(Yazarlar: Priyanka Sinha, Sugam Pandey)*
+  *📅 Yayın: 2026-11-18* — When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-19 Raporu](reports/2026-11-19.md)
 - [📅 2026-11-18 Raporu](reports/2026-11-18.md)
 - [📅 2026-11-17 Raporu](reports/2026-11-17.md)
 - [📅 2026-11-16 Raporu](reports/2026-11-16.md)
 - [📅 2026-11-15 Raporu](reports/2026-11-15.md)
 - [📅 2026-11-14 Raporu](reports/2026-11-14.md)
 - [📅 2026-11-13 Raporu](reports/2026-11-13.md)
-- [📅 2026-11-12 Raporu](reports/2026-11-12.md)
 <!-- LATEST_REPORT_END -->
 
 ---
