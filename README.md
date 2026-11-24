@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-22`
+### ⚡ Son Güncelleme: `2026-11-24`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-22.md`)](reports/2026-11-22.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-24.md`)](reports/2026-11-24.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Anthropic'in 2028 enerji projeksiyonları, yapay zeka veri merkezlerinin devasa güç ihtiyacını karşılamak için fosil yakıtlara (özellikle doğalgaza) olan bağımlılığın artacağını gösterirken, yapay zeka ajanları için çıkarılan Avrupa Birliği düzenlemeleri sektörde yasal uyumluluk süreçlerini hızlandırıyor.
-- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde "her şeyi baştan yazmak" yerine darboğaz oluşturan kritik bileşenlerin modernize edilmesine odaklanan hibrit araçlar öne çıkarken; Linux kernel'ının WebAssembly'ye derlenmesi ve Python tabanlı uygulamalar için geliştirilen Rust sunucular altyapı esnekliğini artırıyor.
-- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka araştırmalarında büyük dil modellerinin bayt düzeyinde yürütülebilir dosya işleme yetenekleri ile difüzyon transformatörlerinde pekiştirmeli öğrenme tabanlı aktivasyon yönlendirmesi odak noktası olurken, robotik manipülasyon ve çok modlu video anlama alanındaki yeni benchmarklar ajanların fiziksel dünya kavrayışını geliştiriyor.
+- 🌐 **Sektör & Büyük Olaylar:** Yapay zeka ekosisteminde merkeziyetçilik tartışmaları derinleşirken; LLM ajanlarının kullanıcı yerine ana şirket çıkarlarına hizmet etmesi soru işaretleri yaratıyor ve Tidal gibi platformların yapay zeka müziklerini yasaklaması telif ile içerik güvenliği regülasyonlarını hızlandırıyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde yüksek performanslı Rust tabanlı altyapı araçları ve özel UI dilleri ön plana çıkarken, NVMe mimarisine yönelik CPU verimliliği odaklı bellek optimizasyonları sistem mühendisliğinde yeni standartlar belirliyor.
+- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `💻 Yazılım & Geliştirme` | [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | ⭐ 496 | 💬 124 | [Tartışma](https://news.ycombinator.com/item?id=50591853) |
-| `💻 Yazılım & Geliştirme` | [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel) | ⭐ 119 | 💬 43 | [Tartışma](https://news.ycombinator.com/item?id=50533945) |
-| `🤖 AI / ML` | [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) | ⭐ 275 | 💬 371 | [Tartışma](https://news.ycombinator.com/item?id=50597612) |
-| `🤖 AI / ML` | [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/) | ⭐ 13 | 💬 0 | [Tartışma](https://news.ycombinator.com/item?id=50597959) |
-| `🤖 AI / ML` | [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/) | ⭐ 278 | 💬 162 | [Tartışma](https://news.ycombinator.com/item?id=50546587) |
+| `🤖 AI / ML` | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | ⭐ 2731 | 💬 3592 | [Tartışma](https://news.ycombinator.com/item?id=50611576) |
+| `🤖 AI / ML` | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) | ⭐ 578 | 💬 242 | [Tartışma](https://news.ycombinator.com/item?id=50627340) |
+| `💻 Yazılım & Geliştirme` | [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues) | ⭐ 234 | 💬 363 | [Tartışma](https://news.ycombinator.com/item?id=50622638) |
+| `💻 Yazılım & Geliştirme` | [GPUI is getting its own repository](https://github.com/zed-industries/gpui) | ⭐ 354 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50619103) |
+| `⚙️ Sistem & Altyapı` | [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112) | ⭐ 26 | 💬 0 | [Tartışma](https://news.ycombinator.com/item?id=50608343) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**ItsNotRexed/Leonida**](https://github.com/ItsNotRexed/Leonida) | `Python` | ⭐ 10,514 | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 |
-| [**huami1314/GestaltX**](https://github.com/huami1314/GestaltX) | `Swift` | ⭐ 8,783 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese... |
-| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 7,762 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
+| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 9,927 | An attempt at running GTA VI on PC |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,115 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
+| [**ivall/xcl**](https://github.com/ivall/xcl) | `Rust` | ⭐ 7,202 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://huggingface.co/papers/2611.21373)** `HuggingFace` *(🔺 54 oy · Yipeng Du, Yuxi Li vb.)*
-  Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections.
+- 🤗 **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://huggingface.co/papers/2611.31201)** `HuggingFace` *(🔺 89 oy · Xiao-Ming Wu, Kang Liao vb.)*
+  Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear.
 
-- 🤗 **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://huggingface.co/papers/2611.26444)** `HuggingFace` *(🔺 52 oy · Yuzhi Huang, Jie Wu vb.)*
-  Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback.
+- 🤗 **[WorldLeague: Benchmarking Physical Agency](https://huggingface.co/papers/2611.30989)** `HuggingFace` *(🔺 68 oy · Xinyang Zhou, Qi Li vb.)*
+  AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action.
 
-- 🤖 **[RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627v1)** `cs.CV` *(Yazarlar: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling vb.)*
-  *📅 Yayın: 2026-11-19* — Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations.
+- 🤖 **[Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](https://arxiv.org/abs/2611.31240v1)** `cs.CV` *(Yazarlar: Seongchan Kim, Soowon Son, Sangoh Kim vb.)*
+  *📅 Yayın: 2026-11-23* — Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction.
 
-- 🤖 **[PlayCraft: Designing Engaging Games from Agent Play Experience](https://arxiv.org/abs/2611.26624v1)** `cs.AI` *(Yazarlar: Weihao Cheng)*
-  *📅 Yayın: 2026-11-19* — Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery.
+- 🤖 **[Let Vision-Language Models Generate Images through Their Representations](https://arxiv.org/abs/2611.31237v1)** `cs.CV` *(Yazarlar: JB Kim, Byungwoo Jeon, Kyungmin Lee vb.)*
+  *📅 Yayın: 2026-11-23* — Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-24 Raporu](reports/2026-11-24.md)
 - [📅 2026-11-22 Raporu](reports/2026-11-22.md)
 - [📅 2026-11-21 Raporu](reports/2026-11-21.md)
 - [📅 2026-11-20 Raporu](reports/2026-11-20.md)
 - [📅 2026-11-19 Raporu](reports/2026-11-19.md)
 - [📅 2026-11-18 Raporu](reports/2026-11-18.md)
 - [📅 2026-11-17 Raporu](reports/2026-11-17.md)
-- [📅 2026-11-16 Raporu](reports/2026-11-16.md)
 <!-- LATEST_REPORT_END -->
 
 ---
