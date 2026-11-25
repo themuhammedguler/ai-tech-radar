@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-24`
+### ⚡ Son Güncelleme: `2026-11-25`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-24.md`)](reports/2026-11-24.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-25.md`)](reports/2026-11-25.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Yapay zeka ekosisteminde merkeziyetçilik tartışmaları derinleşirken; LLM ajanlarının kullanıcı yerine ana şirket çıkarlarına hizmet etmesi soru işaretleri yaratıyor ve Tidal gibi platformların yapay zeka müziklerini yasaklaması telif ile içerik güvenliği regülasyonlarını hızlandırıyor.
-- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde yüksek performanslı Rust tabanlı altyapı araçları ve özel UI dilleri ön plana çıkarken, NVMe mimarisine yönelik CPU verimliliği odaklı bellek optimizasyonları sistem mühendisliğinde yeni standartlar belirliyor.
-- 🔬 **Yapay Zeka & Araştırma:** Yapay zeka
+- 🌐 **Sektör & Büyük Olaylar:** Google, kuantum öncesi kriptografik tehditlere
+- 🛠️ **Yazılım & Açık Kaynak:** 
+- 🔬 **Yapay Zeka & Araştırma:** 
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) | ⭐ 2731 | 💬 3592 | [Tartışma](https://news.ycombinator.com/item?id=50611576) |
-| `🤖 AI / ML` | [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) | ⭐ 578 | 💬 242 | [Tartışma](https://news.ycombinator.com/item?id=50627340) |
-| `💻 Yazılım & Geliştirme` | [GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school](https://github.com/ItsNotRexed/Leonida/issues) | ⭐ 234 | 💬 363 | [Tartışma](https://news.ycombinator.com/item?id=50622638) |
-| `💻 Yazılım & Geliştirme` | [GPUI is getting its own repository](https://github.com/zed-industries/gpui) | ⭐ 354 | 💬 127 | [Tartışma](https://news.ycombinator.com/item?id=50619103) |
-| `⚙️ Sistem & Altyapı` | [SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance](https://dl.acm.org/doi/10.1145/3828523.3857112) | ⭐ 26 | 💬 0 | [Tartışma](https://news.ycombinator.com/item?id=50608343) |
+| `💻 Yazılım & Geliştirme` | [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | ⭐ 867 | 💬 477 | [Tartışma](https://news.ycombinator.com/item?id=50637220) |
+| `🤖 AI / ML` | [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) | ⭐ 374 | 💬 157 | [Tartışma](https://news.ycombinator.com/item?id=50637686) |
+| `🤖 AI / ML` | [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | ⭐ 327 | 💬 92 | [Tartışma](https://news.ycombinator.com/item?id=50634658) |
+| `🤖 AI / ML` | [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/) | ⭐ 193 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=50638220) |
+| `🤖 AI / ML` | [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) | ⭐ 354 | 💬 63 | [Tartışma](https://news.ycombinator.com/item?id=50637056) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 9,927 | An attempt at running GTA VI on PC |
-| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,115 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
-| [**ivall/xcl**](https://github.com/ivall/xcl) | `Rust` | ⭐ 7,202 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
+| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 12,300 | An attempt at running GTA VI on PC |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,510 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
+| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,179 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://huggingface.co/papers/2611.31201)** `HuggingFace` *(🔺 89 oy · Xiao-Ming Wu, Kang Liao vb.)*
-  Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear.
+- 🤗 **[Antom 3-in-1 Transformer: A Payment Foundation Model](https://huggingface.co/papers/2611.25403)** `HuggingFace` *(🔺 98 oy · Weiyu Han, Haoyu Jiang vb.)*
+  We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters, with approximately 1.7B activated per task route.
 
-- 🤗 **[WorldLeague: Benchmarking Physical Agency](https://huggingface.co/papers/2611.30989)** `HuggingFace` *(🔺 68 oy · Xinyang Zhou, Qi Li vb.)*
-  AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action.
+- 🤗 **[Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](https://huggingface.co/papers/2611.32884)** `HuggingFace` *(🔺 85 oy · Richmond Sin Jing Xuan, Peilin Feng vb.)*
+  AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers.
 
-- 🤖 **[Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](https://arxiv.org/abs/2611.31240v1)** `cs.CV` *(Yazarlar: Seongchan Kim, Soowon Son, Sangoh Kim vb.)*
-  *📅 Yayın: 2026-11-23* — Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction.
+- 🤖 **[OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1)** `cs.RO` *(Yazarlar: Xiang Fan, Yuheng Wang, Jiayuan Yan vb.)*
+  *📅 Yayın: 2026-11-24* — A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies.
 
-- 🤖 **[Let Vision-Language Models Generate Images through Their Representations](https://arxiv.org/abs/2611.31237v1)** `cs.CV` *(Yazarlar: JB Kim, Byungwoo Jeon, Kyungmin Lee vb.)*
-  *📅 Yayın: 2026-11-23* — Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial.
+- 🤖 **[DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/abs/2611.33153v1)** `cs.CV` *(Yazarlar: Binfei Ji, Zhiwen Cao, Anqi Yang vb.)*
+  *📅 Yayın: 2026-11-24* — We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-25 Raporu](reports/2026-11-25.md)
 - [📅 2026-11-24 Raporu](reports/2026-11-24.md)
 - [📅 2026-11-22 Raporu](reports/2026-11-22.md)
 - [📅 2026-11-21 Raporu](reports/2026-11-21.md)
 - [📅 2026-11-20 Raporu](reports/2026-11-20.md)
 - [📅 2026-11-19 Raporu](reports/2026-11-19.md)
 - [📅 2026-11-18 Raporu](reports/2026-11-18.md)
-- [📅 2026-11-17 Raporu](reports/2026-11-17.md)
 <!-- LATEST_REPORT_END -->
 
 ---
