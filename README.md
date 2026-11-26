@@ -17,53 +17,53 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-25`
+### ⚡ Son Güncelleme: `2026-11-26`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-25.md`)](reports/2026-11-25.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-26.md`)](reports/2026-11-26.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** Google, kuantum öncesi kriptografik tehditlere
-- 🛠️ **Yazılım & Açık Kaynak:** 
-- 🔬 **Yapay Zeka & Araştırma:** 
+- 🌐 **Sektör & Büyük Olaylar:** OpenAI, GPT-6.2 modelinin kullanım limitlerinde kısıtlamaya giderken, Astra sürümünün kod optimizasyonunda insan rekorlarını kırdığı duyuruldu; bu durum, yapay zeka maliyet ve performans dengesinde yeni bir eşiğe işaret ediyor. Öte yandan The New York Times, potansiyel telif riskleri ve yapay zeka entegrasyonları nedeniyle fotoğrafçıları Photoshop güncellemelerine karşı uyardı.
+- 🛠️ **Yazılım & Açık Kaynak:** GitHub trendlerinde, özellikle Rust diliyle geliştirilen GTA VI port projeleri ve Xbox uyumluluk katmanları dikkat çekerken, mevcut uygulamaları güvenli bir şekilde Rust'a dönüştürmeyi amaçlayan kademeli migrasyon araçları öne çıkıyor. Ayrıca geliştiriciler için hazırlanan yeni Intel One Mono yazı tipi, kod okunabilirliğini artırmak adına ekosisteme dahil oldu.
+- 🔬 **Yapay Zeka & Araştırma:** Hugging Face ve ArXiv ekseninde, özellikle tıbbi multimodal zeka (Sage-Med), video tabanlı kod üretimi (VibeVideoAgent) ve gerçek dünyadan simülasyona aktarım (Real2SimLab) alanındaki yenilikçi mimariler ön plana çıkıyor. Araştırmalar, yapay zekanın görsel akıl yürütme ve çok modlu veri işleme yeteneklerini derinleştirmeye odaklanıyor.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `💻 Yazılım & Geliştirme` | [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) | ⭐ 867 | 💬 477 | [Tartışma](https://news.ycombinator.com/item?id=50637220) |
-| `🤖 AI / ML` | [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) | ⭐ 374 | 💬 157 | [Tartışma](https://news.ycombinator.com/item?id=50637686) |
-| `🤖 AI / ML` | [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | ⭐ 327 | 💬 92 | [Tartışma](https://news.ycombinator.com/item?id=50634658) |
-| `🤖 AI / ML` | [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/) | ⭐ 193 | 💬 77 | [Tartışma](https://news.ycombinator.com/item?id=50638220) |
-| `🤖 AI / ML` | [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) | ⭐ 354 | 💬 63 | [Tartışma](https://news.ycombinator.com/item?id=50637056) |
+| `🛡️ Güvenlik` | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | ⭐ 1576 | 💬 677 | [Tartışma](https://news.ycombinator.com/item?id=50644817) |
+| `🤖 AI / ML` | [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) | ⭐ 507 | 💬 319 | [Tartışma](https://news.ycombinator.com/item?id=50648050) |
+| `🤖 AI / ML` | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) | ⭐ 522 | 💬 440 | [Tartışma](https://news.ycombinator.com/item?id=50647673) |
+| `🤖 AI / ML` | [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806) | ⭐ 408 | 💬 225 | [Tartışma](https://news.ycombinator.com/item?id=50651117) |
+| `🤖 AI / ML` | [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) | ⭐ 428 | 💬 123 | [Tartışma](https://news.ycombinator.com/item?id=50601280) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 12,300 | An attempt at running GTA VI on PC |
-| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,510 | Rewrite your whole app in Rust, one piece at a time, checked against the origina... |
-| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,179 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
+| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 13,085 | An attempt at running GTA VI on PC |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,987 | Rewrite your app in Rust, piece by piece, checked against the original at every ... |
+| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,503 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Antom 3-in-1 Transformer: A Payment Foundation Model](https://huggingface.co/papers/2611.25403)** `HuggingFace` *(🔺 98 oy · Weiyu Han, Haoyu Jiang vb.)*
-  We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters, with approximately 1.7B activated per task route.
+- 🤗 **[Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://huggingface.co/papers/2611.34849)** `HuggingFace` *(🔺 100 oy · Yongchang Zhang, Jie Huang vb.)*
+  Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them.
 
-- 🤗 **[Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](https://huggingface.co/papers/2611.32884)** `HuggingFace` *(🔺 85 oy · Richmond Sin Jing Xuan, Peilin Feng vb.)*
-  AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers.
+- 🤗 **[Sage-Med: Scaling Medical Multimodal Intelligence](https://huggingface.co/papers/2611.34575)** `HuggingFace` *(🔺 82 oy · Med Team, Ming Hu vb.)*
+  Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge.
 
-- 🤖 **[OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1)** `cs.RO` *(Yazarlar: Xiang Fan, Yuheng Wang, Jiayuan Yan vb.)*
-  *📅 Yayın: 2026-11-24* — A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies.
+- 🤖 **[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](https://arxiv.org/abs/2611.34942v1)** `cs.NI` *(Yazarlar: Yalin E. Sagduyu, Tugba Erpek)*
+  *📅 Yayın: 2026-11-25* — End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models.
 
-- 🤖 **[DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/abs/2611.33153v1)** `cs.CV` *(Yazarlar: Binfei Ji, Zhiwen Cao, Anqi Yang vb.)*
-  *📅 Yayın: 2026-11-24* — We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages.
+- 🤖 **[Tokenisation is not in APX](https://arxiv.org/abs/2611.34938v1)** `cs.CL` *(Yazarlar: Violeta Kastreva, Philip Whittington, Dennis Komm vb.)*
+  *📅 Yayın: 2026-11-25* — In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-26 Raporu](reports/2026-11-26.md)
 - [📅 2026-11-25 Raporu](reports/2026-11-25.md)
 - [📅 2026-11-24 Raporu](reports/2026-11-24.md)
 - [📅 2026-11-22 Raporu](reports/2026-11-22.md)
 - [📅 2026-11-21 Raporu](reports/2026-11-21.md)
 - [📅 2026-11-20 Raporu](reports/2026-11-20.md)
 - [📅 2026-11-19 Raporu](reports/2026-11-19.md)
-- [📅 2026-11-18 Raporu](reports/2026-11-18.md)
 <!-- LATEST_REPORT_END -->
 
 ---
