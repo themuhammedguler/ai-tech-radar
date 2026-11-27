@@ -129,7 +129,7 @@ class ArxivCollector(BaseCollector):
             try:
                 content = r_path.read_text(encoding="utf-8")
                 matches = re.findall(
-                    r"###\s*\d+\.\s*\[(.*?)\]\((.*?)\)\s*\n-\s*👥\s*\*\*Yazarlar:\*\*\s*(.*?)\s*\n(?:-\s*📅\s*\*\*Yayın Tarihi:\*\*\s*(.*?)\s*\n)?-\s*🏷️\s*\*\*Kategori:\*\*\s*(.*?)\s*\n-\s*🔗\s*\*\*Bağlantı:\*\*\s*.*?\n-\s*📝\s*\*\*Özet:\*\*\s*\*(.*?)\*",
+                    r"###\s*\d+\.\s*\[(.*?)\]\((.*?)\)(?:\s*\*\(Referans Arşiv\)\*)?\s*\n-\s*👥\s*\*\*Yazarlar:\*\*\s*(.*?)\s*\n(?:-\s*📅\s*\*\*Yayın Tarihi:\*\*\s*(.*?)\s*\n)?-\s*🏷️\s*\*\*Kategori:\*\*\s*(.*?)\s*\n-\s*🔗\s*\*\*Bağlantı:\*\*\s*.*?\n-\s*📝\s*\*\*Özet:\*\*\s*\*(.*?)\*",
                     content
                 )
                 if matches:
@@ -137,12 +137,12 @@ class ArxivCollector(BaseCollector):
                     for m in matches[:self.target_count]:
                         fallback_papers.append(
                             ArxivPaper(
-                                title=m[0],
-                                link=m[1],
-                                authors=m[2],
-                                published_date=m[3] if m[3] else r_path.stem,
-                                category=m[4],
-                                summary=m[5],
+                                title=m[0].strip(),
+                                link=m[1].strip(),
+                                authors=m[2].strip(),
+                                published_date=m[3].strip("` ") if m[3] else r_path.stem,
+                                category=m[4].strip("` "),
+                                summary=m[5].strip(),
                                 is_archived_fallback=True  # Clear transparency!
                             )
                         )

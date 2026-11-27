@@ -79,8 +79,8 @@ class GithubTrendingCollector(BaseCollector):
             full_name = item.get("full_name") or item.get("name") or "Unknown/Repo"
             url = item.get("html_url") or f"https://github.com/{full_name}"
             raw_desc = item.get("description") or "Açıklama bulunamadı."
-            # Clean description of table delimiters
-            clean_desc = raw_desc.replace("|", "-").strip()
+            # Clean description of newlines and table delimiters
+            clean_desc = " ".join(str(raw_desc).split()).replace("|", "-").strip()
             language = item.get("language") or "General"
             stars = max(0, int(item.get("stargazers_count") or 0))
             forks = max(0, int(item.get("forks_count") or 0))

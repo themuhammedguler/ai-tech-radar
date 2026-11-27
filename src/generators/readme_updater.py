@@ -171,7 +171,8 @@ class ReadmeUpdater:
             hf_status=hf_status,
             arxiv_status=arxiv_status
         )
-        updated_text = pattern.sub(new_block, readme_text)
+        # Use a callable replacement so re.sub never parses LaTeX/path backslashes (e.g. \in, \alpha, \u) as regex escapes
+        updated_text = pattern.sub(lambda _: new_block, readme_text)
 
         self.readme_path.write_text(updated_text, encoding="utf-8")
         logger.info(f"README.md dynamic block successfully updated for {date_str}.")

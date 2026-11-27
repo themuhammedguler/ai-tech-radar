@@ -52,5 +52,6 @@ jobs:
             echo "Herhangi bir değişiklik bulunamadı, commit adımı atlanıyor."
           else
             git commit -m "📊 Daily AI & Tech Radar Update: $(date +'%Y-%m-%d')"
-            git push
+            git pull --rebase origin main || true
+            git push origin main
           fi

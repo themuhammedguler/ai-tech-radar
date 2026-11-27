@@ -161,3 +161,62 @@ def test_readme_updater_raises_on_missing_tags(
             arxiv_items=[mock_arxiv_paper],
             briefing=mock_briefing
         )
+
+
+def test_readme_updater_handles_latex_backslashes_and_escapes(
+    tmp_path,
+    mock_trend_item,
+    mock_github_repo
+):
+    """
+    Regression test for 2026-11-23 failure:
+    Ensures LaTeX sequences like \\in, \\infty, \\alpha, \\u, \\x or Windows paths
+    never trigger `re.error: bad escape` during README regex substitution.
+    """
+    readme = tmp_path / "README.md"
+    readme.write_text(
+        "# Header\n<!-- LATEST_REPORT_START -->\nOld content\n<!-- LATEST_REPORT_END -->\n# Footer",
+        encoding="utf-8"
+    )
+
+    latex_hf_paper = HuggingFacePaperItem(
+        title=r"Bounds for x \in \mathbb{R}^d and \infty-norms",
+        url="https://huggingface.co/papers/999",
+        authors="Dr. LaTeX",
+        upvotes=99,
+        num_comments=12,
+        summary=r"We prove that for \forall x \in \mathcal{X}, \int_0^\infty f(x) dx converges at C:\Users\test\path.",
+        published_date="2026-11-23"
+    )
+
+    latex_arxiv_paper = ArxivPaper(
+        title=r" optimal \alpha-scaling with \u1234 and \x56",
+        summary=r"Let \theta \in \Theta be a parameter with \beta \ge 0 and \gamma \le \infty.",
+        link="https://arxiv.org/abs/2611.99999",
+        authors="Prof. Math",
+        category="cs.LG",
+        published_date="2026-11-23"
+    )
+
+    latex_briefing = ExecutiveBriefing(
+        sector_events=r"Sektörde C:\Windows\System32 ve \in operatörleri tartışıldı.",
+        software_opensource=r"Yeni \u ve \x kaçış dizileri düzeltildi.",
+        ai_research=r"Matematiksel \int ve \infty modelleri geliştirildi.",
+        generated_by_ai=True
+    )
+
+    updater = ReadmeUpdater(readme_path=readme, reports_dir=tmp_path)
+    success = updater.update(
+        date_str="2026-11-23",
+        hn_items=[mock_trend_item],
+        github_items=[mock_github_repo],
+        hf_items=[latex_hf_paper],
+        arxiv_items=[latex_arxiv_paper],
+        briefing=latex_briefing
+    )
+
+    assert success is True
+    updated = readme.read_text(encoding="utf-8")
+    assert r"\in \mathcal{X}" in updated
+    assert r"\int_0^\infty" in updated
+    assert r"C:\Users\test\path" in updated

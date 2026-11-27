@@ -148,7 +148,7 @@ class RadarPipeline:
                 sys.exit(1)
             raise PipelineExecutionError(err_msg) from e
 
-        # 8. Update README.md
+        # 8. Update README.md (non-fatal if daily report is already written)
         try:
             readme_ok = self.readme_updater.update(
                 date_str=today,
@@ -167,9 +167,7 @@ class RadarPipeline:
             err_msg = f"Failed to update README.md: {e}"
             logger.error(err_msg)
             result.errors.append(err_msg)
-            if exit_on_critical_failure:
-                sys.exit(1)
-            raise PipelineExecutionError(err_msg) from e
+            result.readme_updated = False
 
         logger.info(
             f"========== Pipeline Finished [{ 'SUCCESS' if result.is_healthy else 'DEGRADED' }] "

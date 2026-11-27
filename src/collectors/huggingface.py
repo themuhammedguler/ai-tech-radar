@@ -53,7 +53,7 @@ class HuggingFaceCollector(BaseCollector):
 
         # Sort papers by community engagement: upvotes * 2 + comments
         def engagement_score(item: dict) -> int:
-            paper_dict = item.get("paper", {})
+            paper_dict = item.get("paper") or {}
             upvotes = int(item.get("numUpvotes") or paper_dict.get("upvotes") or 0)
             comments = int(item.get("numComments") or 0)
             return (upvotes * 2) + comments
@@ -62,10 +62,10 @@ class HuggingFaceCollector(BaseCollector):
 
         papers: list[HuggingFacePaperItem] = []
         for item in sorted_items[:self.target_count]:
-            paper = item.get("paper", {})
+            paper = item.get("paper") or {}
             paper_id = paper.get("id") or item.get("id") or ""
             raw_title = item.get("title") or paper.get("title") or "Başlıksız HF Makalesi"
-            clean_title = raw_title.replace("|", "-").strip()
+            clean_title = " ".join(str(raw_title).split()).replace("|", "-").strip()
 
             url = f"https://huggingface.co/papers/{paper_id}" if paper_id else "https://huggingface.co/papers"
             raw_summary = item.get("summary") or paper.get("summary") or "Özet bulunamadı."
