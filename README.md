@@ -17,38 +17,38 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-26`
+### ⚡ Son Güncelleme: `2026-11-27`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-26.md`)](reports/2026-11-26.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-27.md`)](reports/2026-11-27.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** OpenAI, GPT-6.2 modelinin kullanım limitlerinde kısıtlamaya giderken, Astra sürümünün kod optimizasyonunda insan rekorlarını kırdığı duyuruldu; bu durum, yapay zeka maliyet ve performans dengesinde yeni bir eşiğe işaret ediyor. Öte yandan The New York Times, potansiyel telif riskleri ve yapay zeka entegrasyonları nedeniyle fotoğrafçıları Photoshop güncellemelerine karşı uyardı.
-- 🛠️ **Yazılım & Açık Kaynak:** GitHub trendlerinde, özellikle Rust diliyle geliştirilen GTA VI port projeleri ve Xbox uyumluluk katmanları dikkat çekerken, mevcut uygulamaları güvenli bir şekilde Rust'a dönüştürmeyi amaçlayan kademeli migrasyon araçları öne çıkıyor. Ayrıca geliştiriciler için hazırlanan yeni Intel One Mono yazı tipi, kod okunabilirliğini artırmak adına ekosisteme dahil oldu.
-- 🔬 **Yapay Zeka & Araştırma:** Hugging Face ve ArXiv ekseninde, özellikle tıbbi multimodal zeka (Sage-Med), video tabanlı kod üretimi (VibeVideoAgent) ve gerçek dünyadan simülasyona aktarım (Real2SimLab) alanındaki yenilikçi mimariler ön plana çıkıyor. Araştırmalar, yapay zekanın görsel akıl yürütme ve çok modlu veri işleme yeteneklerini derinleştirmeye odaklanıyor.
+- 🌐 **Sektör & Büyük Olaylar:** Google'ın Model Context Protocol (MCP) hamlesi ve yapay zeka ajanlarının güvenlik sınırları tartışılırken; ABD Hava Kuvvetleri bulut platformunun hacklenmesi, yapay zekanın yol açtığı siber güvenlik açıklarına dair endişeleri kritik bir seviyeye taşıdı.
+- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde özellikle Rust odaklı sistem programlama projeleri öne çıkarken; yapay zekanın kendi kendine barındırma (self-hosting) süreçlerini yeniden eğlenceli ve erişilebilir kılması yazılım geliştirme pratiklerini dönüştürüyor.
+- 🔬 **Yapay Zeka & Araştırma:** Bilgisayar kullanabilen genel amaçlı ajanların uzun soluklu iş akışlarındaki performansını ölçen yeni kıyaslama (benchmark) çalışmalarının yanı sıra, Transformer mimarilerindeki kararsızlıkları gidermeye yönelik DeltaNet ve döngüsel (Mixture-of-Loops) hibrit yaklaşımlar popülerlik kazanıyor.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🛡️ Güvenlik` | [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) | ⭐ 1576 | 💬 677 | [Tartışma](https://news.ycombinator.com/item?id=50644817) |
-| `🤖 AI / ML` | [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) | ⭐ 507 | 💬 319 | [Tartışma](https://news.ycombinator.com/item?id=50648050) |
-| `🤖 AI / ML` | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) | ⭐ 522 | 💬 440 | [Tartışma](https://news.ycombinator.com/item?id=50647673) |
-| `🤖 AI / ML` | [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806) | ⭐ 408 | 💬 225 | [Tartışma](https://news.ycombinator.com/item?id=50651117) |
-| `🤖 AI / ML` | [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) | ⭐ 428 | 💬 123 | [Tartışma](https://news.ycombinator.com/item?id=50601280) |
+| `🤖 AI / ML` | [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | ⭐ 925 | 💬 447 | [Tartışma](https://news.ycombinator.com/item?id=50660180) |
+| `🤖 AI / ML` | [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) | ⭐ 384 | 💬 318 | [Tartışma](https://news.ycombinator.com/item?id=50653477) |
+| `💻 Yazılım & Geliştirme` | [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | ⭐ 480 | 💬 566 | [Tartışma](https://news.ycombinator.com/item?id=50657530) |
+| `🤖 AI / ML` | [The group chat where your AI talks behind your back](https://construct22.com/) | ⭐ 514 | 💬 225 | [Tartışma](https://news.ycombinator.com/item?id=50663595) |
+| `🤖 AI / ML` | [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) | ⭐ 411 | 💬 101 | [Tartışma](https://news.ycombinator.com/item?id=50657265) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 13,085 | An attempt at running GTA VI on PC |
-| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 9,987 | Rewrite your app in Rust, piece by piece, checked against the original at every ... |
-| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,503 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
+| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 13,686 | An attempt at running GTA VI on PC |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 10,649 | Rewrite your app in Rust, piece by piece, checked against the original at every ... |
+| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,692 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://huggingface.co/papers/2611.34849)** `HuggingFace` *(🔺 100 oy · Yongchang Zhang, Jie Huang vb.)*
-  Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them.
+- 🤗 **[Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051)** `HuggingFace` *(🔺 124 oy · Xichong Zhang, Xixuan Hao vb.)*
+  Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training.
 
-- 🤗 **[Sage-Med: Scaling Medical Multimodal Intelligence](https://huggingface.co/papers/2611.34575)** `HuggingFace` *(🔺 82 oy · Med Team, Ming Hu vb.)*
-  Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge.
+- 🤗 **[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)** `HuggingFace` *(🔺 98 oy · Hui Shen, Yunta Hsieh vb.)*
+  Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states.
 
 - 🤖 **[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](https://arxiv.org/abs/2611.34942v1)** `cs.NI` *(Yazarlar: Yalin E. Sagduyu, Tugba Erpek)*
   *📅 Yayın: 2026-11-25* — End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models.
@@ -57,13 +57,13 @@
   *📅 Yayın: 2026-11-25* — In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-27 Raporu](reports/2026-11-27.md)
 - [📅 2026-11-26 Raporu](reports/2026-11-26.md)
 - [📅 2026-11-25 Raporu](reports/2026-11-25.md)
 - [📅 2026-11-24 Raporu](reports/2026-11-24.md)
 - [📅 2026-11-22 Raporu](reports/2026-11-22.md)
 - [📅 2026-11-21 Raporu](reports/2026-11-21.md)
 - [📅 2026-11-20 Raporu](reports/2026-11-20.md)
-- [📅 2026-11-19 Raporu](reports/2026-11-19.md)
 <!-- LATEST_REPORT_END -->
 
 ---
