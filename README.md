@@ -17,37 +17,37 @@
 ---
 
 <!-- LATEST_REPORT_START -->
-### ⚡ Son Güncelleme: `2026-11-27`
+### ⚡ Son Güncelleme: `2026-11-28`
 
 > 📊 **Bugünün Özeti:** 25 teknoloji trendi (10 HackerNews + 5 GitHub + 5 Hugging Face + 5 ArXiv) tarandı.  
-> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-27.md`)](reports/2026-11-27.md)
+> 📑 **Tam Rapor:** [Günün 25 Maddelik Raporunu Görüntüle (`reports/2026-11-28.md`)](reports/2026-11-28.md)
 
 #### 🧠 Günün Yapay Zeka Özeti (Executive Briefing)
-- 🌐 **Sektör & Büyük Olaylar:** ABD Hava Kuvvetleri'nin bulut platformunun hacklenmesi ve Convex'in kullanıcı verilerini izinsiz uzak sunuculara göndermesi, kurumsal sistemlerde kritik güvenlik ve veri gizliliği açıklarının acilen kapatılması gerektiğini gözler önüne serdi.
-- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde, uygulamaları güvenli bir şekilde parça parça Rust diline dönüştüren otomasyon araçları ve yerel donanım optimizasyonları (AMD için llama.cpp çatallamaları) ön plana çıkıyor.
-- 🔬 **Yapay Zeka & Araştırma:** Kod tabanlı ajanların görsel muhakeme yeteneklerinin video modellerini geride bıraktığı görülürken, yapay zeka modellerinde tekrarlayan durum istikrarsızlığını gidermeye yönelik yeni DeltaNet mimarileri ve transfer öğrenme odaklı spektrum adaptasyon çalışmaları öne çıkıyor.
+- 🌐 **Sektör & Büyük Olaylar:** Yapay zeka ekosisteminde güvenlik tehditleri ve tedarik zinciri riskleri artış gösterirken; Hugging Face üzerindeki GGUF modellerine gizlenmiş zararlı yazılımların binlerce kullanıcıyı etkilemesi, platform güvenliğinin acilen yeniden yapılandırılmasını zorunlu kılıyor. Buna karşılık Google'ın DeepCrossAttention mimarisi gibi verimlilik odaklı atılımlar, model eğitim süreçlerini hızlandırarak hesaplama maliyetlerini optimize etmeye devam ediyor.
+- 🛠️ **Yazılım & Açık Kaynak:** Geliştirici ekosisteminde WebAssembly teknolojisinin sınırları gerçek bir Linux çekirdeğinin tarayıcıda çalıştırılmasıyla genişlerken, Rust dili tabanlı tersine mühendislik ve uyumluluk katmanı projeleri (Xbox ve konsol oyun ekosistemlerini Windows'a taşıma çabaları) açık kaynak dünyasının odağında yer alıyor. Ayrıca, tarayıcı sekme yönetimini KubernetesCLUSTER mimarisiyle birleştiren yenilikçi altyapı denemeleri, dağıtık sistem tasarımında sınırların zorlandığını gösteriyor.
+- 🔬 **Yapay Zeka & Araştırma:** Akademik ve pratik yapay zeka araştırmaları, kodlama ajanlarının görsel akıl yürütme becerilerinin geleneksel video modellerinden daha üstün olduğunu ortaya koyarken; delta-ağları ve uzun vadeli iş akışlarını yönetebilen akıllı ajan benchmark'ları ön plana çıkıyor. Bunun yanı sıra, transfer öğrenme ile spektrum adaptasyonu ve zaman serisi tahminleme modellerinin sıfır-atış (zero-shot) performanslarını iyileştirmeye yönelik yeni mimari yaklaşımlar literatürü şekillendiriyor.
 
 #### 🔥 HackerNews Öne Çıkanlar
 | Kategori | Başlık | Puan | Yorum | HN Linki |
 |:--------:|--------|:----:|:-----:|:--------:|
-| `🤖 AI / ML` | [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) | ⭐ 1048 | 💬 494 | [Tartışma](https://news.ycombinator.com/item?id=50660180) |
-| `💻 Yazılım & Geliştirme` | [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) | ⭐ 528 | 💬 635 | [Tartışma](https://news.ycombinator.com/item?id=50657530) |
-| `🤖 AI / ML` | [Group chat where your AI talks behind your back](https://construct22.com/) | ⭐ 640 | 💬 274 | [Tartışma](https://news.ycombinator.com/item?id=50663595) |
-| `🤖 AI / ML` | [Claude sabotaging ML research tasks?](https://twitter.com/RealAstropulse/status/2126119408997466389) | ⭐ 477 | 💬 242 | [Tartışma](https://news.ycombinator.com/item?id=50664325) |
-| `🛡️ Güvenlik` | [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163) | ⭐ 285 | 💬 189 | [Tartışma](https://news.ycombinator.com/item?id=50666375) |
+| `🤖 AI / ML` | [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/) | ⭐ 607 | 💬 424 | [Tartışma](https://news.ycombinator.com/item?id=50670757) |
+| `💻 Yazılım & Geliştirme` | [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) | ⭐ 455 | 💬 119 | [Tartışma](https://news.ycombinator.com/item?id=50674218) |
+| `🤖 AI / ML` | [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) | ⭐ 479 | 💬 306 | [Tartışma](https://news.ycombinator.com/item?id=50643158) |
+| `🤖 AI / ML` | [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) | ⭐ 494 | 💬 174 | [Tartışma](https://news.ycombinator.com/item?id=50672565) |
+| `💻 Yazılım & Geliştirme` | [Farewell](https://github.com/p-e-w/heretic/issues/601) | ⭐ 479 | 💬 196 | [Tartışma](https://news.ycombinator.com/item?id=50676672) |
 
 #### ⭐ GitHub Trending Açık Kaynak Projeler
 | Proje | Dil | Yıldız | Açıklama |
 |-------|:---:|:------:|----------|
-| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 13,772 | An attempt at running GTA VI on PC |
-| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 10,738 | Rewrite your app in Rust, piece by piece, checked against the original at every ... |
-| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,720 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
+| [**Marvisak/VIctory**](https://github.com/Marvisak/VIctory) | `Rust` | ⭐ 14,027 | An attempt at running GTA VI on PC |
+| [**erkamyaman/rust-anything**](https://github.com/erkamyaman/rust-anything) | `Rust` | ⭐ 11,038 | Rewrite your app in Rust, piece by piece, checked against the original at every ... |
+| [**xcl-dev/xcl**](https://github.com/xcl-dev/xcl) | `Rust` | ⭐ 8,786 | Xbox Series compatibility layer for Windows - runs console game code natively, r... |
 
 #### 🔬 Öne Çıkan AI & Model Araştırmaları (Hugging Face & ArXiv)
-- 🤗 **[Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051)** `HuggingFace` *(🔺 126 oy · Xichong Zhang, Xixuan Hao vb.)*
+- 🤗 **[Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051)** `HuggingFace` *(🔺 134 oy · Xichong Zhang, Xixuan Hao vb.)*
   Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training.
 
-- 🤗 **[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)** `HuggingFace` *(🔺 101 oy · Hui Shen, Yunta Hsieh vb.)*
+- 🤗 **[OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232)** `HuggingFace` *(🔺 113 oy · Hui Shen, Yunta Hsieh vb.)*
   Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states.
 
 - 🤖 **[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](https://arxiv.org/abs/2611.34942v1)** `cs.NI` *(Yazarlar: Yalin E. Sagduyu, Tugba Erpek)*
@@ -57,13 +57,13 @@
   *📅 Yayın: 2026-11-25* — In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets.
 
 #### 🗄️ Son 7 Günün Rapor Arşivi
+- [📅 2026-11-28 Raporu](reports/2026-11-28.md)
 - [📅 2026-11-27 Raporu](reports/2026-11-27.md)
 - [📅 2026-11-26 Raporu](reports/2026-11-26.md)
 - [📅 2026-11-25 Raporu](reports/2026-11-25.md)
 - [📅 2026-11-24 Raporu](reports/2026-11-24.md)
 - [📅 2026-11-22 Raporu](reports/2026-11-22.md)
 - [📅 2026-11-21 Raporu](reports/2026-11-21.md)
-- [📅 2026-11-20 Raporu](reports/2026-11-20.md)
 <!-- LATEST_REPORT_END -->
 
 ---
